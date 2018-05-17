@@ -1,0 +1,5 @@
+-- TUTORIAL COMO INSTALAR EXTENSÃO MULTILANGUAGE --
+https://www.youtube.com/watch?v=SNIyP1QQdVs
+
+-- LINK PARA BAIXAR EXTENSÃO --
+https://marketplace.visualstudio.com/items?itemName=PhilJollans.Multi-LanguageforVisualStudio

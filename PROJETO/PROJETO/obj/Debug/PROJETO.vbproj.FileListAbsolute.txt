@@ -1,0 +1,39 @@
+C:\Users\DIEGO SILVA\Desktop\PROJETO\PROJETO\PROJETO\obj\Debug\PROJETO.vbproj.GenerateResource.Cache
+C:\Users\DIEGO SILVA\Desktop\PROJETO\PROJETO\PROJETO\bin\Debug\TAV UFU.exe.config
+C:\Users\DIEGO SILVA\Desktop\PROJETO\PROJETO\PROJETO\bin\Debug\TAV UFU.exe
+C:\Users\DIEGO SILVA\Desktop\PROJETO\PROJETO\PROJETO\bin\Debug\TAV UFU.pdb
+C:\Users\DIEGO SILVA\Desktop\PROJETO\PROJETO\PROJETO\bin\Debug\TAV UFU.xml
+C:\Users\DIEGO SILVA\Desktop\PROJETO\PROJETO\PROJETO\obj\Debug\TAVUFU.frmMain.resources
+C:\Users\DIEGO SILVA\Desktop\PROJETO\PROJETO\PROJETO\obj\Debug\TAVUFU.Resources.resources
+C:\Users\DIEGO SILVA\Desktop\PROJETO\PROJETO\PROJETO\obj\Debug\TAVUFU.SplashScreen1.resources
+C:\Users\DIEGO SILVA\Desktop\PROJETO\PROJETO\PROJETO\obj\Debug\TAV UFU.exe
+C:\Users\DIEGO SILVA\Desktop\PROJETO\PROJETO\PROJETO\obj\Debug\TAV UFU.xml
+C:\Users\DIEGO SILVA\Desktop\PROJETO\PROJETO\PROJETO\obj\Debug\TAV UFU.pdb
+C:\Users\brunoao\Desktop\PROJETO\PROJETO\bin\Debug\TAV UFU.exe.config
+C:\Users\brunoao\Desktop\PROJETO\PROJETO\bin\Debug\TAV UFU.exe
+C:\Users\brunoao\Desktop\PROJETO\PROJETO\bin\Debug\TAV UFU.pdb
+C:\Users\brunoao\Desktop\PROJETO\PROJETO\bin\Debug\TAV UFU.xml
+C:\Users\brunoao\Desktop\PROJETO\PROJETO\obj\Debug\PROJETO.vbprojResolveAssemblyReference.cache
+C:\Users\brunoao\Desktop\PROJETO\PROJETO\obj\Debug\TAVUFU.frmMain.resources
+C:\Users\brunoao\Desktop\PROJETO\PROJETO\obj\Debug\TAVUFU.janelaSobre.resources
+C:\Users\brunoao\Desktop\PROJETO\PROJETO\obj\Debug\TAVUFU.Resources.resources
+C:\Users\brunoao\Desktop\PROJETO\PROJETO\obj\Debug\TAVUFU.SplashScreen1.resources
+C:\Users\brunoao\Desktop\PROJETO\PROJETO\obj\Debug\PROJETO.vbproj.GenerateResource.Cache
+C:\Users\brunoao\Desktop\PROJETO\PROJETO\obj\Debug\PROJETO.vbproj.CoreCompileInputs.cache
+C:\Users\brunoao\Desktop\PROJETO\PROJETO\obj\Debug\TAV UFU.exe
+C:\Users\brunoao\Desktop\PROJETO\PROJETO\obj\Debug\TAV UFU.xml
+C:\Users\brunoao\Desktop\PROJETO\PROJETO\obj\Debug\TAV UFU.pdb
+C:\Users\brunoao\Documents\GITHUB\projeto-ILEEL-UFU\PROJETO\PROJETO\bin\Debug\TAV UFU.exe.config
+C:\Users\brunoao\Documents\GITHUB\projeto-ILEEL-UFU\PROJETO\PROJETO\bin\Debug\TAV UFU.exe
+C:\Users\brunoao\Documents\GITHUB\projeto-ILEEL-UFU\PROJETO\PROJETO\bin\Debug\TAV UFU.pdb
+C:\Users\brunoao\Documents\GITHUB\projeto-ILEEL-UFU\PROJETO\PROJETO\bin\Debug\TAV UFU.xml
+C:\Users\brunoao\Documents\GITHUB\projeto-ILEEL-UFU\PROJETO\PROJETO\obj\Debug\PROJETO.vbprojResolveAssemblyReference.cache
+C:\Users\brunoao\Documents\GITHUB\projeto-ILEEL-UFU\PROJETO\PROJETO\obj\Debug\TAVUFU.frmMain.resources
+C:\Users\brunoao\Documents\GITHUB\projeto-ILEEL-UFU\PROJETO\PROJETO\obj\Debug\TAVUFU.janelaSobre.resources
+C:\Users\brunoao\Documents\GITHUB\projeto-ILEEL-UFU\PROJETO\PROJETO\obj\Debug\TAVUFU.Resources.resources
+C:\Users\brunoao\Documents\GITHUB\projeto-ILEEL-UFU\PROJETO\PROJETO\obj\Debug\TAVUFU.SplashScreen1.resources
+C:\Users\brunoao\Documents\GITHUB\projeto-ILEEL-UFU\PROJETO\PROJETO\obj\Debug\PROJETO.vbproj.GenerateResource.cache
+C:\Users\brunoao\Documents\GITHUB\projeto-ILEEL-UFU\PROJETO\PROJETO\obj\Debug\PROJETO.vbproj.CoreCompileInputs.cache
+C:\Users\brunoao\Documents\GITHUB\projeto-ILEEL-UFU\PROJETO\PROJETO\obj\Debug\TAV UFU.exe
+C:\Users\brunoao\Documents\GITHUB\projeto-ILEEL-UFU\PROJETO\PROJETO\obj\Debug\TAV UFU.xml
+C:\Users\brunoao\Documents\GITHUB\projeto-ILEEL-UFU\PROJETO\PROJETO\obj\Debug\TAV UFU.pdb

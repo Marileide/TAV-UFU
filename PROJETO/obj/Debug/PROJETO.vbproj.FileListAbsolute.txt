@@ -1,0 +1,106 @@
+C:\Users\DIEGO SILVA\Desktop\PROJETO\PROJETO\PROJETO\obj\Debug\PROJETO.vbproj.GenerateResource.Cache
+C:\Users\DIEGO SILVA\Desktop\PROJETO\PROJETO\PROJETO\bin\Debug\TAV UFU.exe.config
+C:\Users\DIEGO SILVA\Desktop\PROJETO\PROJETO\PROJETO\bin\Debug\TAV UFU.exe
+C:\Users\DIEGO SILVA\Desktop\PROJETO\PROJETO\PROJETO\bin\Debug\TAV UFU.pdb
+C:\Users\DIEGO SILVA\Desktop\PROJETO\PROJETO\PROJETO\bin\Debug\TAV UFU.xml
+C:\Users\DIEGO SILVA\Desktop\PROJETO\PROJETO\PROJETO\obj\Debug\TAVUFU.frmMain.resources
+C:\Users\DIEGO SILVA\Desktop\PROJETO\PROJETO\PROJETO\obj\Debug\TAVUFU.Resources.resources
+C:\Users\DIEGO SILVA\Desktop\PROJETO\PROJETO\PROJETO\obj\Debug\TAVUFU.SplashScreen1.resources
+C:\Users\DIEGO SILVA\Desktop\PROJETO\PROJETO\PROJETO\obj\Debug\TAV UFU.exe
+C:\Users\DIEGO SILVA\Desktop\PROJETO\PROJETO\PROJETO\obj\Debug\TAV UFU.xml
+C:\Users\DIEGO SILVA\Desktop\PROJETO\PROJETO\PROJETO\obj\Debug\TAV UFU.pdb
+C:\Users\brunoao\Desktop\PROJETO\PROJETO\bin\Debug\TAV UFU.exe.config
+C:\Users\brunoao\Desktop\PROJETO\PROJETO\bin\Debug\TAV UFU.exe
+C:\Users\brunoao\Desktop\PROJETO\PROJETO\bin\Debug\TAV UFU.pdb
+C:\Users\brunoao\Desktop\PROJETO\PROJETO\bin\Debug\TAV UFU.xml
+C:\Users\brunoao\Desktop\PROJETO\PROJETO\obj\Debug\PROJETO.vbprojResolveAssemblyReference.cache
+C:\Users\brunoao\Desktop\PROJETO\PROJETO\obj\Debug\TAVUFU.frmMain.resources
+C:\Users\brunoao\Desktop\PROJETO\PROJETO\obj\Debug\TAVUFU.janelaSobre.resources
+C:\Users\brunoao\Desktop\PROJETO\PROJETO\obj\Debug\TAVUFU.Resources.resources
+C:\Users\brunoao\Desktop\PROJETO\PROJETO\obj\Debug\TAVUFU.SplashScreen1.resources
+C:\Users\brunoao\Desktop\PROJETO\PROJETO\obj\Debug\PROJETO.vbproj.GenerateResource.Cache
+C:\Users\brunoao\Desktop\PROJETO\PROJETO\obj\Debug\PROJETO.vbproj.CoreCompileInputs.cache
+C:\Users\brunoao\Desktop\PROJETO\PROJETO\obj\Debug\TAV UFU.exe
+C:\Users\brunoao\Desktop\PROJETO\PROJETO\obj\Debug\TAV UFU.xml
+C:\Users\brunoao\Desktop\PROJETO\PROJETO\obj\Debug\TAV UFU.pdb
+C:\Users\brunoao\Desktop\test\PROJETO\bin\Debug\TAV UFU.exe.config
+C:\Users\brunoao\Desktop\test\PROJETO\obj\Debug\TAV UFU.exe
+C:\Users\brunoao\Desktop\test\PROJETO\obj\Debug\TAV UFU.xml
+C:\Users\brunoao\Desktop\test\PROJETO\obj\Debug\TAV UFU.pdb
+C:\Users\brunoao\Desktop\test\PROJETO\bin\Debug\TAV UFU.exe
+C:\Users\brunoao\Desktop\test\PROJETO\bin\Debug\TAV UFU.pdb
+C:\Users\brunoao\Desktop\test\PROJETO\bin\Debug\TAV UFU.xml
+C:\Users\brunoao\Desktop\test\PROJETO\obj\Debug\PROJETO.vbprojResolveAssemblyReference.cache
+C:\Users\brunoao\Desktop\test\PROJETO\obj\Debug\TAVUFU.frmMain.resources
+C:\Users\brunoao\Desktop\test\PROJETO\obj\Debug\TAVUFU.janelaSobre.resources
+C:\Users\brunoao\Desktop\test\PROJETO\obj\Debug\TAVUFU.Resources.resources
+C:\Users\brunoao\Desktop\test\PROJETO\obj\Debug\TAVUFU.SplashScreen1.resources
+C:\Users\brunoao\Desktop\test\PROJETO\obj\Debug\PROJETO.vbproj.GenerateResource.Cache
+C:\Users\brunoao\Desktop\test\PROJETO\bin\Debug\en\TAV UFU.resources.dll
+C:\Users\brunoao\Desktop\test\PROJETO\bin\Debug\pt-BR\TAV UFU.resources.dll
+C:\Users\brunoao\Desktop\test\PROJETO\obj\Debug\TAVUFU.MultiLang.resources
+C:\Users\brunoao\Desktop\test\PROJETO\obj\Debug\TAVUFU.frmMain.en.resources
+C:\Users\brunoao\Desktop\test\PROJETO\obj\Debug\TAVUFU.frmMain.pt-BR.resources
+C:\Users\brunoao\Desktop\test\PROJETO\obj\Debug\TAVUFU.janelaSobre.en.resources
+C:\Users\brunoao\Desktop\test\PROJETO\obj\Debug\TAVUFU.janelaSobre.pt-BR.resources
+C:\Users\brunoao\Desktop\test\PROJETO\obj\Debug\TAVUFU.MultiLang.en.resources
+C:\Users\brunoao\Desktop\test\PROJETO\obj\Debug\TAVUFU.MultiLang.pt-BR.resources
+C:\Users\brunoao\Desktop\test\PROJETO\obj\Debug\TAVUFU.SplashScreen1.pt-BR.resources
+C:\Users\brunoao\Desktop\test\PROJETO\obj\Debug\en\TAV UFU.resources.dll
+C:\Users\brunoao\Desktop\test\PROJETO\obj\Debug\pt-BR\TAV UFU.resources.dll
+C:\Users\brunoao\Desktop\Nova pasta\PROJETO\bin\Debug\TAV UFU.exe.config
+C:\Users\brunoao\Desktop\Nova pasta\PROJETO\bin\Debug\TAV UFU.exe
+C:\Users\brunoao\Desktop\Nova pasta\PROJETO\bin\Debug\TAV UFU.pdb
+C:\Users\brunoao\Desktop\Nova pasta\PROJETO\bin\Debug\TAV UFU.xml
+C:\Users\brunoao\Desktop\Nova pasta\PROJETO\bin\Debug\en\TAV UFU.resources.dll
+C:\Users\brunoao\Desktop\Nova pasta\PROJETO\bin\Debug\pt-BR\TAV UFU.resources.dll
+C:\Users\brunoao\Desktop\Nova pasta\PROJETO\obj\Debug\PROJETO.vbprojResolveAssemblyReference.cache
+C:\Users\brunoao\Desktop\Nova pasta\PROJETO\obj\Debug\TAVUFU.frmMain.resources
+C:\Users\brunoao\Desktop\Nova pasta\PROJETO\obj\Debug\TAVUFU.janelaSobre.resources
+C:\Users\brunoao\Desktop\Nova pasta\PROJETO\obj\Debug\TAVUFU.MultiLang.resources
+C:\Users\brunoao\Desktop\Nova pasta\PROJETO\obj\Debug\TAVUFU.Resources.resources
+C:\Users\brunoao\Desktop\Nova pasta\PROJETO\obj\Debug\TAVUFU.SplashScreen1.resources
+C:\Users\brunoao\Desktop\Nova pasta\PROJETO\obj\Debug\TAVUFU.frmMain.en.resources
+C:\Users\brunoao\Desktop\Nova pasta\PROJETO\obj\Debug\TAVUFU.frmMain.pt-BR.resources
+C:\Users\brunoao\Desktop\Nova pasta\PROJETO\obj\Debug\TAVUFU.janelaSobre.en.resources
+C:\Users\brunoao\Desktop\Nova pasta\PROJETO\obj\Debug\TAVUFU.janelaSobre.pt-BR.resources
+C:\Users\brunoao\Desktop\Nova pasta\PROJETO\obj\Debug\TAVUFU.MultiLang.en.resources
+C:\Users\brunoao\Desktop\Nova pasta\PROJETO\obj\Debug\TAVUFU.MultiLang.pt-BR.resources
+C:\Users\brunoao\Desktop\Nova pasta\PROJETO\obj\Debug\TAVUFU.SplashScreen1.pt-BR.resources
+C:\Users\brunoao\Desktop\Nova pasta\PROJETO\obj\Debug\PROJETO.vbproj.GenerateResource.cache
+C:\Users\brunoao\Desktop\Nova pasta\PROJETO\obj\Debug\PROJETO.vbproj.CoreCompileInputs.cache
+C:\Users\brunoao\Desktop\Nova pasta\PROJETO\obj\Debug\en\TAV UFU.resources.dll
+C:\Users\brunoao\Desktop\Nova pasta\PROJETO\obj\Debug\pt-BR\TAV UFU.resources.dll
+C:\Users\brunoao\Desktop\Nova pasta\PROJETO\obj\Debug\TAV UFU.exe
+C:\Users\brunoao\Desktop\Nova pasta\PROJETO\obj\Debug\TAV UFU.xml
+C:\Users\brunoao\Desktop\Nova pasta\PROJETO\obj\Debug\TAV UFU.pdb
+C:\Users\brunoao\Desktop\Nova pasta\PROJETO\obj\Debug\TAVUFU.SelectLanguage.resources
+C:\Users\brunoao\projeto-ILEEL-UFU\PROJETO\bin\Debug\TAV UFU.exe.config
+C:\Users\brunoao\projeto-ILEEL-UFU\PROJETO\bin\Debug\TAV UFU.exe
+C:\Users\brunoao\projeto-ILEEL-UFU\PROJETO\bin\Debug\TAV UFU.pdb
+C:\Users\brunoao\projeto-ILEEL-UFU\PROJETO\bin\Debug\TAV UFU.xml
+C:\Users\brunoao\projeto-ILEEL-UFU\PROJETO\bin\Debug\en\TAV UFU.resources.dll
+C:\Users\brunoao\projeto-ILEEL-UFU\PROJETO\bin\Debug\pt-BR\TAV UFU.resources.dll
+C:\Users\brunoao\projeto-ILEEL-UFU\PROJETO\obj\Debug\PROJETO.vbprojAssemblyReference.cache
+C:\Users\brunoao\projeto-ILEEL-UFU\PROJETO\obj\Debug\TAVUFU.frmMain.resources
+C:\Users\brunoao\projeto-ILEEL-UFU\PROJETO\obj\Debug\TAVUFU.janelaSobre.resources
+C:\Users\brunoao\projeto-ILEEL-UFU\PROJETO\obj\Debug\TAVUFU.MultiLang.resources
+C:\Users\brunoao\projeto-ILEEL-UFU\PROJETO\obj\Debug\TAVUFU.Resources.resources
+C:\Users\brunoao\projeto-ILEEL-UFU\PROJETO\obj\Debug\TAVUFU.SelectLanguage.resources
+C:\Users\brunoao\projeto-ILEEL-UFU\PROJETO\obj\Debug\TAVUFU.SplashScreen1.resources
+C:\Users\brunoao\projeto-ILEEL-UFU\PROJETO\obj\Debug\TAVUFU.frmMain.en.resources
+C:\Users\brunoao\projeto-ILEEL-UFU\PROJETO\obj\Debug\TAVUFU.frmMain.pt-BR.resources
+C:\Users\brunoao\projeto-ILEEL-UFU\PROJETO\obj\Debug\TAVUFU.janelaSobre.en.resources
+C:\Users\brunoao\projeto-ILEEL-UFU\PROJETO\obj\Debug\TAVUFU.janelaSobre.pt-BR.resources
+C:\Users\brunoao\projeto-ILEEL-UFU\PROJETO\obj\Debug\TAVUFU.MultiLang.en.resources
+C:\Users\brunoao\projeto-ILEEL-UFU\PROJETO\obj\Debug\TAVUFU.MultiLang.pt-BR.resources
+C:\Users\brunoao\projeto-ILEEL-UFU\PROJETO\obj\Debug\TAVUFU.SplashScreen1.pt-BR.resources
+C:\Users\brunoao\projeto-ILEEL-UFU\PROJETO\obj\Debug\PROJETO.vbproj.GenerateResource.cache
+C:\Users\brunoao\projeto-ILEEL-UFU\PROJETO\obj\Debug\PROJETO.vbproj.CoreCompileInputs.cache
+C:\Users\brunoao\projeto-ILEEL-UFU\PROJETO\obj\Debug\en\TAV UFU.resources.dll
+C:\Users\brunoao\projeto-ILEEL-UFU\PROJETO\obj\Debug\pt-BR\TAV UFU.resources.dll
+C:\Users\brunoao\projeto-ILEEL-UFU\PROJETO\obj\Debug\TAV UFU.exe
+C:\Users\brunoao\projeto-ILEEL-UFU\PROJETO\obj\Debug\TAV UFU.xml
+C:\Users\brunoao\projeto-ILEEL-UFU\PROJETO\obj\Debug\TAV UFU.pdb
+C:\Users\brunoao\projeto-ILEEL-UFU\PROJETO\obj\Debug\TAVUFU.SelectLanguage.en.resources
+C:\Users\brunoao\projeto-ILEEL-UFU\PROJETO\obj\Debug\TAVUFU.SelectLanguage.pt-BR.resources

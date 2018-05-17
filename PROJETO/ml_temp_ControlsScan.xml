@@ -1,0 +1,708 @@
+<?xml version="1.0" standalone="yes"?>
+<ControlsScanResultsCache xmlns="http://tempuri.org/ControlsScanResults.xsd">
+  <ControlsScanResults>
+    <ControlsScanID>1</ControlsScanID>
+    <Component>Form1.vb</Component>
+    <FullName>Form1.vb</FullName>
+    <ShortName>Form1.vb</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText />
+    <SortKey>Form1.vb</SortKey>
+    <NodeType>0</NodeType>
+    <Expanded>true</Expanded>
+    <ItemLevel>0</ItemLevel>
+    <ArrayIndexOrCount>-1</ArrayIndexOrCount>
+    <CompilerName />
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>2</ControlsScanID>
+    <Component>Form1.vb</Component>
+    <FullName>frmMain.Text</FullName>
+    <ShortName>Text</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText>TAV UFU v1.0</OriginalText>
+    <SortKey>AAfrmMain.Text</SortKey>
+    <NodeType>8963</NodeType>
+    <Expanded>false</Expanded>
+    <ItemLevel>1</ItemLevel>
+    <ArrayIndexOrCount>-1</ArrayIndexOrCount>
+    <CompilerName>$this.Text</CompilerName>
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>3</ControlsScanID>
+    <Component>Form1.vb</Component>
+    <FullName>AbrirToolStripMenuItem.Text</FullName>
+    <ShortName>Text</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText>Abrir...</OriginalText>
+    <SortKey>BAAbrirToolStripMenuItem.Text</SortKey>
+    <NodeType>8963</NodeType>
+    <Expanded>false</Expanded>
+    <ItemLevel>1</ItemLevel>
+    <ArrayIndexOrCount>-1</ArrayIndexOrCount>
+    <CompilerName>AbrirToolStripMenuItem.Text</CompilerName>
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>4</ControlsScanID>
+    <Component>Form1.vb</Component>
+    <FullName>ArquivoToolStripMenuItem.Text</FullName>
+    <ShortName>Text</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText>Arquivo</OriginalText>
+    <SortKey>BAArquivoToolStripMenuItem.Text</SortKey>
+    <NodeType>8963</NodeType>
+    <Expanded>false</Expanded>
+    <ItemLevel>1</ItemLevel>
+    <ArrayIndexOrCount>-1</ArrayIndexOrCount>
+    <CompilerName>ArquivoToolStripMenuItem.Text</CompilerName>
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>5</ControlsScanID>
+    <Component>Form1.vb</Component>
+    <FullName>CentroInferiorToolStripMenuItem.Text</FullName>
+    <ShortName>Text</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText>Inferior</OriginalText>
+    <SortKey>BACentroInferiorToolStripMenuItem.Text</SortKey>
+    <NodeType>8963</NodeType>
+    <Expanded>false</Expanded>
+    <ItemLevel>1</ItemLevel>
+    <ArrayIndexOrCount>-1</ArrayIndexOrCount>
+    <CompilerName>CentroInferiorToolStripMenuItem.Text</CompilerName>
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>6</ControlsScanID>
+    <Component>Form1.vb</Component>
+    <FullName>CentroMeioToolStripMenuItem.Text</FullName>
+    <ShortName>Text</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText>Centro...</OriginalText>
+    <SortKey>BACentroMeioToolStripMenuItem.Text</SortKey>
+    <NodeType>8963</NodeType>
+    <Expanded>false</Expanded>
+    <ItemLevel>1</ItemLevel>
+    <ArrayIndexOrCount>-1</ArrayIndexOrCount>
+    <CompilerName>CentroMeioToolStripMenuItem.Text</CompilerName>
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>7</ControlsScanID>
+    <Component>Form1.vb</Component>
+    <FullName>CentroSuperiorToolStripMenuItem.Text</FullName>
+    <ShortName>Text</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText>Superior</OriginalText>
+    <SortKey>BACentroSuperiorToolStripMenuItem.Text</SortKey>
+    <NodeType>8963</NodeType>
+    <Expanded>false</Expanded>
+    <ItemLevel>1</ItemLevel>
+    <ArrayIndexOrCount>-1</ArrayIndexOrCount>
+    <CompilerName>CentroSuperiorToolStripMenuItem.Text</CompilerName>
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>8</ControlsScanID>
+    <Component>Form1.vb</Component>
+    <FullName>ColarToolStripMenuItem.Text</FullName>
+    <ShortName>Text</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText>Colar</OriginalText>
+    <SortKey>BAColarToolStripMenuItem.Text</SortKey>
+    <NodeType>8963</NodeType>
+    <Expanded>false</Expanded>
+    <ItemLevel>1</ItemLevel>
+    <ArrayIndexOrCount>-1</ArrayIndexOrCount>
+    <CompilerName>ColarToolStripMenuItem.Text</CompilerName>
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>9</ControlsScanID>
+    <Component>Form1.vb</Component>
+    <FullName>CopiarToolStripMenuItem.Text</FullName>
+    <ShortName>Text</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText>Copiar</OriginalText>
+    <SortKey>BACopiarToolStripMenuItem.Text</SortKey>
+    <NodeType>8963</NodeType>
+    <Expanded>false</Expanded>
+    <ItemLevel>1</ItemLevel>
+    <ArrayIndexOrCount>-1</ArrayIndexOrCount>
+    <CompilerName>CopiarToolStripMenuItem.Text</CompilerName>
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>10</ControlsScanID>
+    <Component>Form1.vb</Component>
+    <FullName>CorToolStripMenuItem.Text</FullName>
+    <ShortName>Text</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText>Cor...</OriginalText>
+    <SortKey>BACorToolStripMenuItem.Text</SortKey>
+    <NodeType>8963</NodeType>
+    <Expanded>false</Expanded>
+    <ItemLevel>1</ItemLevel>
+    <ArrayIndexOrCount>-1</ArrayIndexOrCount>
+    <CompilerName>CorToolStripMenuItem.Text</CompilerName>
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>11</ControlsScanID>
+    <Component>Form1.vb</Component>
+    <FullName>DeletarToolStripMenuItem.Text</FullName>
+    <ShortName>Text</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText>Deletar</OriginalText>
+    <SortKey>BADeletarToolStripMenuItem.Text</SortKey>
+    <NodeType>8963</NodeType>
+    <Expanded>false</Expanded>
+    <ItemLevel>1</ItemLevel>
+    <ArrayIndexOrCount>-1</ArrayIndexOrCount>
+    <CompilerName>DeletarToolStripMenuItem.Text</CompilerName>
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>12</ControlsScanID>
+    <Component>Form1.vb</Component>
+    <FullName>DireitaInferiorToolStripMenuItem1.Text</FullName>
+    <ShortName>Text</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText>Inferior</OriginalText>
+    <SortKey>BADireitaInferiorToolStripMenuItem1.Text</SortKey>
+    <NodeType>8963</NodeType>
+    <Expanded>false</Expanded>
+    <ItemLevel>1</ItemLevel>
+    <ArrayIndexOrCount>-1</ArrayIndexOrCount>
+    <CompilerName>DireitaInferiorToolStripMenuItem1.Text</CompilerName>
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>13</ControlsScanID>
+    <Component>Form1.vb</Component>
+    <FullName>DireitaSuperiorToolStripMenuItem1.Text</FullName>
+    <ShortName>Text</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText>Superior</OriginalText>
+    <SortKey>BADireitaSuperiorToolStripMenuItem1.Text</SortKey>
+    <NodeType>8963</NodeType>
+    <Expanded>false</Expanded>
+    <ItemLevel>1</ItemLevel>
+    <ArrayIndexOrCount>-1</ArrayIndexOrCount>
+    <CompilerName>DireitaSuperiorToolStripMenuItem1.Text</CompilerName>
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>14</ControlsScanID>
+    <Component>Form1.vb</Component>
+    <FullName>DireitaToolStripMenuItem.Text</FullName>
+    <ShortName>Text</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText>Direita...</OriginalText>
+    <SortKey>BADireitaToolStripMenuItem.Text</SortKey>
+    <NodeType>8963</NodeType>
+    <Expanded>false</Expanded>
+    <ItemLevel>1</ItemLevel>
+    <ArrayIndexOrCount>-1</ArrayIndexOrCount>
+    <CompilerName>DireitaToolStripMenuItem.Text</CompilerName>
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>15</ControlsScanID>
+    <Component>Form1.vb</Component>
+    <FullName>EditarToolStripMenuItem.Text</FullName>
+    <ShortName>Text</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText>Editar</OriginalText>
+    <SortKey>BAEditarToolStripMenuItem.Text</SortKey>
+    <NodeType>8963</NodeType>
+    <Expanded>false</Expanded>
+    <ItemLevel>1</ItemLevel>
+    <ArrayIndexOrCount>-1</ArrayIndexOrCount>
+    <CompilerName>EditarToolStripMenuItem.Text</CompilerName>
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>16</ControlsScanID>
+    <Component>Form1.vb</Component>
+    <FullName>EsquerdaInferiorToolStripMenuItem2.Text</FullName>
+    <ShortName>Text</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText>Inferior</OriginalText>
+    <SortKey>BAEsquerdaInferiorToolStripMenuItem2.Text</SortKey>
+    <NodeType>8963</NodeType>
+    <Expanded>false</Expanded>
+    <ItemLevel>1</ItemLevel>
+    <ArrayIndexOrCount>-1</ArrayIndexOrCount>
+    <CompilerName>EsquerdaInferiorToolStripMenuItem2.Text</CompilerName>
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>17</ControlsScanID>
+    <Component>Form1.vb</Component>
+    <FullName>EsquerdaSuperiorToolStripMenuItem2.Text</FullName>
+    <ShortName>Text</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText>Superior</OriginalText>
+    <SortKey>BAEsquerdaSuperiorToolStripMenuItem2.Text</SortKey>
+    <NodeType>8963</NodeType>
+    <Expanded>false</Expanded>
+    <ItemLevel>1</ItemLevel>
+    <ArrayIndexOrCount>-1</ArrayIndexOrCount>
+    <CompilerName>EsquerdaSuperiorToolStripMenuItem2.Text</CompilerName>
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>18</ControlsScanID>
+    <Component>Form1.vb</Component>
+    <FullName>EsquerdaToolStripMenuItem.Text</FullName>
+    <ShortName>Text</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText>Esquerda...</OriginalText>
+    <SortKey>BAEsquerdaToolStripMenuItem.Text</SortKey>
+    <NodeType>8963</NodeType>
+    <Expanded>false</Expanded>
+    <ItemLevel>1</ItemLevel>
+    <ArrayIndexOrCount>-1</ArrayIndexOrCount>
+    <CompilerName>EsquerdaToolStripMenuItem.Text</CompilerName>
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>19</ControlsScanID>
+    <Component>Form1.vb</Component>
+    <FullName>FonteToolStripMenuItem.Text</FullName>
+    <ShortName>Text</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText>Fonte...</OriginalText>
+    <SortKey>BAFonteToolStripMenuItem.Text</SortKey>
+    <NodeType>8963</NodeType>
+    <Expanded>false</Expanded>
+    <ItemLevel>1</ItemLevel>
+    <ArrayIndexOrCount>-1</ArrayIndexOrCount>
+    <CompilerName>FonteToolStripMenuItem.Text</CompilerName>
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>20</ControlsScanID>
+    <Component>Form1.vb</Component>
+    <FullName>FormatarToolStripMenuItem.Text</FullName>
+    <ShortName>Text</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText>Formatar</OriginalText>
+    <SortKey>BAFormatarToolStripMenuItem.Text</SortKey>
+    <NodeType>8963</NodeType>
+    <Expanded>false</Expanded>
+    <ItemLevel>1</ItemLevel>
+    <ArrayIndexOrCount>-1</ArrayIndexOrCount>
+    <CompilerName>FormatarToolStripMenuItem.Text</CompilerName>
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>21</ControlsScanID>
+    <Component>Form1.vb</Component>
+    <FullName>HoraDataToolStripMenuItem.Text</FullName>
+    <ShortName>Text</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText>Hora/Data</OriginalText>
+    <SortKey>BAHoraDataToolStripMenuItem.Text</SortKey>
+    <NodeType>8963</NodeType>
+    <Expanded>false</Expanded>
+    <ItemLevel>1</ItemLevel>
+    <ArrayIndexOrCount>-1</ArrayIndexOrCount>
+    <CompilerName>HoraDataToolStripMenuItem.Text</CompilerName>
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>22</ControlsScanID>
+    <Component>Form1.vb</Component>
+    <FullName>MenuStrip1.Text</FullName>
+    <ShortName>Text</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText>MenuStrip1</OriginalText>
+    <SortKey>BAMenuStrip1.Text</SortKey>
+    <NodeType>8963</NodeType>
+    <Expanded>false</Expanded>
+    <ItemLevel>1</ItemLevel>
+    <ArrayIndexOrCount>-1</ArrayIndexOrCount>
+    <CompilerName>MenuStrip1.Text</CompilerName>
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>23</ControlsScanID>
+    <Component>Form1.vb</Component>
+    <FullName>NovoToolStripMenuItem.Text</FullName>
+    <ShortName>Text</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText>Novo...</OriginalText>
+    <SortKey>BANovoToolStripMenuItem.Text</SortKey>
+    <NodeType>8963</NodeType>
+    <Expanded>false</Expanded>
+    <ItemLevel>1</ItemLevel>
+    <ArrayIndexOrCount>-1</ArrayIndexOrCount>
+    <CompilerName>NovoToolStripMenuItem.Text</CompilerName>
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>24</ControlsScanID>
+    <Component>Form1.vb</Component>
+    <FullName>PlanoDeFundoToolStripMenuItem.Text</FullName>
+    <ShortName>Text</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText>Plano de Fundo...</OriginalText>
+    <SortKey>BAPlanoDeFundoToolStripMenuItem.Text</SortKey>
+    <NodeType>8963</NodeType>
+    <Expanded>false</Expanded>
+    <ItemLevel>1</ItemLevel>
+    <ArrayIndexOrCount>-1</ArrayIndexOrCount>
+    <CompilerName>PlanoDeFundoToolStripMenuItem.Text</CompilerName>
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>25</ControlsScanID>
+    <Component>Form1.vb</Component>
+    <FullName>PosiçãaoDaLegendaToolStripMenuItem.Text</FullName>
+    <ShortName>Text</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText>Inserir comentário...</OriginalText>
+    <SortKey>BAPosiçãaoDaLegendaToolStripMenuItem.Text</SortKey>
+    <NodeType>8963</NodeType>
+    <Expanded>false</Expanded>
+    <ItemLevel>1</ItemLevel>
+    <ArrayIndexOrCount>-1</ArrayIndexOrCount>
+    <CompilerName>PosiçãaoDaLegendaToolStripMenuItem.Text</CompilerName>
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>26</ControlsScanID>
+    <Component>Form1.vb</Component>
+    <FullName>RecoortarToolStripMenuItem.Text</FullName>
+    <ShortName>Text</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText>Recortar</OriginalText>
+    <SortKey>BARecoortarToolStripMenuItem.Text</SortKey>
+    <NodeType>8963</NodeType>
+    <Expanded>false</Expanded>
+    <ItemLevel>1</ItemLevel>
+    <ArrayIndexOrCount>-1</ArrayIndexOrCount>
+    <CompilerName>RecoortarToolStripMenuItem.Text</CompilerName>
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>27</ControlsScanID>
+    <Component>Form1.vb</Component>
+    <FullName>SairToolStripMenuItem.Text</FullName>
+    <ShortName>Text</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText>Sair</OriginalText>
+    <SortKey>BASairToolStripMenuItem.Text</SortKey>
+    <NodeType>8963</NodeType>
+    <Expanded>false</Expanded>
+    <ItemLevel>1</ItemLevel>
+    <ArrayIndexOrCount>-1</ArrayIndexOrCount>
+    <CompilerName>SairToolStripMenuItem.Text</CompilerName>
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>28</ControlsScanID>
+    <Component>Form1.vb</Component>
+    <FullName>SalvarToolStripMenuItem.Text</FullName>
+    <ShortName>Text</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText>Salvar...</OriginalText>
+    <SortKey>BASalvarToolStripMenuItem.Text</SortKey>
+    <NodeType>8963</NodeType>
+    <Expanded>false</Expanded>
+    <ItemLevel>1</ItemLevel>
+    <ArrayIndexOrCount>-1</ArrayIndexOrCount>
+    <CompilerName>SalvarToolStripMenuItem.Text</CompilerName>
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>29</ControlsScanID>
+    <Component>Form1.vb</Component>
+    <FullName>SelecionarIdiomaToolStripMenuItem.Text</FullName>
+    <ShortName>Text</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText>Selecionar Idioma</OriginalText>
+    <SortKey>BASelecionarIdiomaToolStripMenuItem.Text</SortKey>
+    <NodeType>8963</NodeType>
+    <Expanded>false</Expanded>
+    <ItemLevel>1</ItemLevel>
+    <ArrayIndexOrCount>-1</ArrayIndexOrCount>
+    <CompilerName>SelecionarIdiomaToolStripMenuItem.Text</CompilerName>
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>30</ControlsScanID>
+    <Component>Form1.vb</Component>
+    <FullName>SelecionarTudoToolStripMenuItem.Text</FullName>
+    <ShortName>Text</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText>Selecionar Tudo</OriginalText>
+    <SortKey>BASelecionarTudoToolStripMenuItem.Text</SortKey>
+    <NodeType>8963</NodeType>
+    <Expanded>false</Expanded>
+    <ItemLevel>1</ItemLevel>
+    <ArrayIndexOrCount>-1</ArrayIndexOrCount>
+    <CompilerName>SelecionarTudoToolStripMenuItem.Text</CompilerName>
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>31</ControlsScanID>
+    <Component>Form1.vb</Component>
+    <FullName>SobreToolStripMenuItem.Text</FullName>
+    <ShortName>Text</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText>Sobre</OriginalText>
+    <SortKey>BASobreToolStripMenuItem.Text</SortKey>
+    <NodeType>8963</NodeType>
+    <Expanded>false</Expanded>
+    <ItemLevel>1</ItemLevel>
+    <ArrayIndexOrCount>-1</ArrayIndexOrCount>
+    <CompilerName>SobreToolStripMenuItem.Text</CompilerName>
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>32</ControlsScanID>
+    <Component>Form1.vb</Component>
+    <FullName>ToolStripMenuItem1.Text</FullName>
+    <ShortName>Text</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText>Idioma</OriginalText>
+    <SortKey>BAToolStripMenuItem1.Text</SortKey>
+    <NodeType>8963</NodeType>
+    <Expanded>false</Expanded>
+    <ItemLevel>1</ItemLevel>
+    <ArrayIndexOrCount>-1</ArrayIndexOrCount>
+    <CompilerName>ToolStripMenuItem1.Text</CompilerName>
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>33</ControlsScanID>
+    <Component>janelaSobre.vb</Component>
+    <FullName>janelaSobre.vb</FullName>
+    <ShortName>janelaSobre.vb</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText />
+    <SortKey>janelaSobre.vb</SortKey>
+    <NodeType>0</NodeType>
+    <Expanded>true</Expanded>
+    <ItemLevel>0</ItemLevel>
+    <ArrayIndexOrCount>-1</ArrayIndexOrCount>
+    <CompilerName />
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>34</ControlsScanID>
+    <Component>janelaSobre.vb</Component>
+    <FullName>janelaSobre.Text</FullName>
+    <ShortName>Text</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText>Sobre</OriginalText>
+    <SortKey>AAjanelaSobre.Text</SortKey>
+    <NodeType>8963</NodeType>
+    <Expanded>false</Expanded>
+    <ItemLevel>1</ItemLevel>
+    <ArrayIndexOrCount>-1</ArrayIndexOrCount>
+    <CompilerName>$this.Text</CompilerName>
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>35</ControlsScanID>
+    <Component>janelaSobre.vb</Component>
+    <FullName>RichTextBox1.Text</FullName>
+    <ShortName>Text</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText>O TAV-UFU Editor é um editor de comentários gratuito e open source. Configura-se como uma ferramenta pedagógica para professores de Tradução Audiovisual. Desenvolvido pela professora Marileide Dias Esqueda, o objetivo deste software educativo é aumentar a qualidade da legenda dos alunos, exibindo na tela os comentários ou outras opções de tradução sugeridas pelo professor, sem excluir o trabalho feito previamente pelos alunos.</OriginalText>
+    <SortKey>BARichTextBox1.Text</SortKey>
+    <NodeType>8963</NodeType>
+    <Expanded>false</Expanded>
+    <ItemLevel>1</ItemLevel>
+    <ArrayIndexOrCount>1</ArrayIndexOrCount>
+    <CompilerName>RichTextBox1.Text</CompilerName>
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>36</ControlsScanID>
+    <Component>janelaSobre.vb</Component>
+    <FullName>TextBox1.Text</FullName>
+    <ShortName>Text</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText>TAV-UFU Editor</OriginalText>
+    <SortKey>BATextBox1.Text</SortKey>
+    <NodeType>8963</NodeType>
+    <Expanded>false</Expanded>
+    <ItemLevel>1</ItemLevel>
+    <ArrayIndexOrCount>1</ArrayIndexOrCount>
+    <CompilerName>TextBox1.Text</CompilerName>
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>37</ControlsScanID>
+    <Component>janelaSobre.vb</Component>
+    <FullName>RichTextBox1.Lines(0)</FullName>
+    <ShortName>Lines</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText>O TAV-UFU Editor é um editor de comentários gratuito e open source. Configura-se como uma ferramenta pedagógica para professores de Tradução Audiovisual. Desenvolvido pela professora Marileide Dias Esqueda, o objetivo deste software educativo é aumentar a qualidade da legenda dos alunos, exibindo na tela os comentários ou outras opções de tradução sugeridas pelo professor, sem excluir o trabalho feito previamente pelos alunos.</OriginalText>
+    <SortKey>BLines(0000)</SortKey>
+    <NodeType>8965</NodeType>
+    <Expanded>false</Expanded>
+    <ItemLevel>1</ItemLevel>
+    <ArrayIndexOrCount>0</ArrayIndexOrCount>
+    <CompilerName>RichTextBox1.Lines(0)</CompilerName>
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>38</ControlsScanID>
+    <Component>janelaSobre.vb</Component>
+    <FullName>TextBox1.Lines(0)</FullName>
+    <ShortName>Lines</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText>TAV-UFU Editor</OriginalText>
+    <SortKey>BLines(0000)</SortKey>
+    <NodeType>8965</NodeType>
+    <Expanded>false</Expanded>
+    <ItemLevel>1</ItemLevel>
+    <ArrayIndexOrCount>0</ArrayIndexOrCount>
+    <CompilerName>TextBox1.Lines(0)</CompilerName>
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>39</ControlsScanID>
+    <Component>SelectLanguage.vb</Component>
+    <FullName>SelectLanguage.vb</FullName>
+    <ShortName>SelectLanguage.vb</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText />
+    <SortKey>SelectLanguage.vb</SortKey>
+    <NodeType>0</NodeType>
+    <Expanded>false</Expanded>
+    <ItemLevel>0</ItemLevel>
+    <ArrayIndexOrCount>-1</ArrayIndexOrCount>
+    <CompilerName />
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>40</ControlsScanID>
+    <Component>SelectLanguage.vb</Component>
+    <FullName>SelectLanguage.Text</FullName>
+    <ShortName>Text</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText>SelectLanguage</OriginalText>
+    <SortKey>AASelectLanguage.Text</SortKey>
+    <NodeType>8963</NodeType>
+    <Expanded>false</Expanded>
+    <ItemLevel>1</ItemLevel>
+    <ArrayIndexOrCount>-1</ArrayIndexOrCount>
+    <CompilerName>$this.Text</CompilerName>
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>41</ControlsScanID>
+    <Component>SelectLanguage.vb</Component>
+    <FullName>btOK.Text</FullName>
+    <ShortName>Text</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText>OK</OriginalText>
+    <SortKey>BAbtOK.Text</SortKey>
+    <NodeType>8963</NodeType>
+    <Expanded>false</Expanded>
+    <ItemLevel>1</ItemLevel>
+    <ArrayIndexOrCount>-1</ArrayIndexOrCount>
+    <CompilerName>btOK.Text</CompilerName>
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>42</ControlsScanID>
+    <Component>SelectLanguage.vb</Component>
+    <FullName>lblStartup.Text</FullName>
+    <ShortName>Text</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText>Next time ...</OriginalText>
+    <SortKey>BAlblStartup.Text</SortKey>
+    <NodeType>8963</NodeType>
+    <Expanded>false</Expanded>
+    <ItemLevel>1</ItemLevel>
+    <ArrayIndexOrCount>-1</ArrayIndexOrCount>
+    <CompilerName>lblStartup.Text</CompilerName>
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>43</ControlsScanID>
+    <Component>SelectLanguage.vb</Component>
+    <FullName>rbDefault.Text</FullName>
+    <ShortName>Text</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText>Use the default language</OriginalText>
+    <SortKey>BArbDefault.Text</SortKey>
+    <NodeType>8963</NodeType>
+    <Expanded>false</Expanded>
+    <ItemLevel>1</ItemLevel>
+    <ArrayIndexOrCount>-1</ArrayIndexOrCount>
+    <CompilerName>rbDefault.Text</CompilerName>
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>44</ControlsScanID>
+    <Component>SelectLanguage.vb</Component>
+    <FullName>rbSelected.Text</FullName>
+    <ShortName>Text</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText>Use the selected language</OriginalText>
+    <SortKey>BArbSelected.Text</SortKey>
+    <NodeType>8963</NodeType>
+    <Expanded>false</Expanded>
+    <ItemLevel>1</ItemLevel>
+    <ArrayIndexOrCount>-1</ArrayIndexOrCount>
+    <CompilerName>rbSelected.Text</CompilerName>
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>45</ControlsScanID>
+    <Component>SelectLanguage.vb</Component>
+    <FullName>rbShow.Text</FullName>
+    <ShortName>Text</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText>Show this form again</OriginalText>
+    <SortKey>BArbShow.Text</SortKey>
+    <NodeType>8963</NodeType>
+    <Expanded>false</Expanded>
+    <ItemLevel>1</ItemLevel>
+    <ArrayIndexOrCount>-1</ArrayIndexOrCount>
+    <CompilerName>rbShow.Text</CompilerName>
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>46</ControlsScanID>
+    <Component>SplashScreen1.vb</Component>
+    <FullName>SplashScreen1.vb</FullName>
+    <ShortName>SplashScreen1.vb</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText />
+    <SortKey>SplashScreen1.vb</SortKey>
+    <NodeType>0</NodeType>
+    <Expanded>true</Expanded>
+    <ItemLevel>0</ItemLevel>
+    <ArrayIndexOrCount>-1</ArrayIndexOrCount>
+    <CompilerName />
+  </ControlsScanResults>
+  <ControlsScanResults>
+    <ControlsScanID>47</ControlsScanID>
+    <Component>SplashScreen1.vb</Component>
+    <FullName>ApplicationTitle.Text</FullName>
+    <ShortName>Text</ShortName>
+    <XPath />
+    <ProgID>System.Windows.Forms.Form</ProgID>
+    <OriginalText>TAV UFU</OriginalText>
+    <SortKey>BAApplicationTitle.Text</SortKey>
+    <NodeType>8963</NodeType>
+    <Expanded>false</Expanded>
+    <ItemLevel>1</ItemLevel>
+    <ArrayIndexOrCount>-1</ArrayIndexOrCount>
+    <CompilerName>ApplicationTitle.Text</CompilerName>
+  </ControlsScanResults>
+</ControlsScanResultsCache>
