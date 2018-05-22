@@ -504,19 +504,19 @@
   <GeneralTexts>
     <StringID>12</StringID>
     <LanguageID>9</LanguageID>
-    <LanguageText>Inferior</LanguageText>
+    <LanguageText>Bottom</LanguageText>
     <Status>2</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>14</StringID>
     <LanguageID>9</LanguageID>
-    <LanguageText>Center...</LanguageText>
-    <Status>5</Status>
+    <LanguageText>Middle...</LanguageText>
+    <Status>2</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>13</StringID>
     <LanguageID>9</LanguageID>
-    <LanguageText>Superior</LanguageText>
+    <LanguageText>Top</LanguageText>
     <Status>2</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -564,14 +564,14 @@
   <GeneralTexts>
     <StringID>21</StringID>
     <LanguageID>9</LanguageID>
-    <LanguageText>Source...</LanguageText>
-    <Status>5</Status>
+    <LanguageText>Font...</LanguageText>
+    <Status>2</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>24</StringID>
     <LanguageID>9</LanguageID>
-    <LanguageText>Format</LanguageText>
-    <Status>5</Status>
+    <LanguageText>Settings</LanguageText>
+    <Status>2</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>19</StringID>
@@ -618,8 +618,8 @@
   <GeneralTexts>
     <StringID>25</StringID>
     <LanguageID>9</LanguageID>
-    <LanguageText>Select Language</LanguageText>
-    <Status>5</Status>
+    <LanguageText>Choose Language</LanguageText>
+    <Status>2</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>18</StringID>
@@ -1125,6 +1125,14 @@
     <ResourceName>btOK.Text</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
+  <Properties>
+    <Component>SelectLanguage.vb</Component>
+    <Name>$this.Text</Name>
+    <StringID>52</StringID>
+    <Selected>true</Selected>
+    <ResourceName>$this.Text</ResourceName>
+    <Hidden>false</Hidden>
+  </Properties>
   <GeneralAttributes>
     <Name>XmlDatabaseVersion</Name>
     <TextValue>1</TextValue>
@@ -1132,7 +1140,7 @@
   </GeneralAttributes>
   <GeneralAttributes>
     <Name>StatusHash</Name>
-    <TextValue>inNXA96LNBQhCnpWB1QD8brg928=</TextValue>
+    <TextValue>leJKRCd9wpyQhNTLHGXd6G1oQI4=</TextValue>
     <NumValue>0</NumValue>
   </GeneralAttributes>
   <GeneralAttributes>

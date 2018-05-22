@@ -124,13 +124,13 @@
     <value>File</value>
   </data>
   <data name="CentroInferiorToolStripMenuItem.Text" xml:space="preserve">
-    <value>Inferior</value>
+    <value>Bottom</value>
   </data>
   <data name="CentroMeioToolStripMenuItem.Text" xml:space="preserve">
-    <value>Center...</value>
+    <value>Middle...</value>
   </data>
   <data name="CentroSuperiorToolStripMenuItem.Text" xml:space="preserve">
-    <value>Superior</value>
+    <value>Top</value>
   </data>
   <data name="ColarToolStripMenuItem.Text" xml:space="preserve">
     <value>Paste</value>
@@ -145,10 +145,10 @@
     <value>Delete</value>
   </data>
   <data name="DireitaInferiorToolStripMenuItem1.Text" xml:space="preserve">
-    <value>Inferior</value>
+    <value>Bottom</value>
   </data>
   <data name="DireitaSuperiorToolStripMenuItem1.Text" xml:space="preserve">
-    <value>Superior</value>
+    <value>Top</value>
   </data>
   <data name="DireitaToolStripMenuItem.Text" xml:space="preserve">
     <value>Right ...</value>
@@ -157,19 +157,19 @@
     <value>Edit</value>
   </data>
   <data name="EsquerdaInferiorToolStripMenuItem2.Text" xml:space="preserve">
-    <value>Inferior</value>
+    <value>Bottom</value>
   </data>
   <data name="EsquerdaSuperiorToolStripMenuItem2.Text" xml:space="preserve">
-    <value>Superior</value>
+    <value>Top</value>
   </data>
   <data name="EsquerdaToolStripMenuItem.Text" xml:space="preserve">
     <value>Left...</value>
   </data>
   <data name="FonteToolStripMenuItem.Text" xml:space="preserve">
-    <value>Source...</value>
+    <value>Font...</value>
   </data>
   <data name="FormatarToolStripMenuItem.Text" xml:space="preserve">
-    <value>Format</value>
+    <value>Settings</value>
   </data>
   <data name="HoraDataToolStripMenuItem.Text" xml:space="preserve">
     <value>Time / Date</value>
@@ -193,7 +193,7 @@
     <value>Save...</value>
   </data>
   <data name="SelecionarIdiomaToolStripMenuItem.Text" xml:space="preserve">
-    <value>Select Language</value>
+    <value>Choose Language</value>
   </data>
   <data name="SelecionarTudoToolStripMenuItem.Text" xml:space="preserve">
     <value>Select all</value>

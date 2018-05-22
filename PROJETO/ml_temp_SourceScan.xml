@@ -1,463 +1,12 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceScanResultsCache xmlns="http://tempuri.org/SourceScanResults.xsd">
   <SourceScanResults>
-    <SourceScanID>1</SourceScanID>
-    <ModuleName>Form1.vb</ModuleName>
-    <LineNumber>6</LineNumber>
-    <ColumnNumber>42</ColumnNumber>
-    <StringID>31</StringID>
-    <OriginalText>Tem certeza que deseja iniciar um novo documento?</OriginalText>
-    <IsHidden>false</IsHidden>
-    <IndexOnLine>0</IndexOnLine>
-    <StartOfStatement>6</StartOfStatement>
-    <EndOfStatement>6</EndOfStatement>
-    <IsVerbatim>false</IsVerbatim>
-    <IsHiddenBlock>false</IsHiddenBlock>
-    <CodeElement>NovoToolStripMenuItem_Click</CodeElement>
-    <RelativeLineNumber>2</RelativeLineNumber>
-    <IsHiddenString>false</IsHiddenString>
-    <IsInterpolatedString>false</IsInterpolatedString>
-    <ClassName>TAVUFU.frmMain</ClassName>
-    <IsController>false</IsController>
-  </SourceScanResults>
-  <SourceScanResults>
-    <SourceScanID>2</SourceScanID>
-    <ModuleName>Form1.vb</ModuleName>
-    <LineNumber>8</LineNumber>
-    <ColumnNumber>42</ColumnNumber>
-    <StringID>32</StringID>
-    <OriginalText>Text Editor</OriginalText>
-    <IsHidden>false</IsHidden>
-    <IndexOnLine>0</IndexOnLine>
-    <StartOfStatement>8</StartOfStatement>
-    <EndOfStatement>8</EndOfStatement>
-    <IsVerbatim>false</IsVerbatim>
-    <IsHiddenBlock>false</IsHiddenBlock>
-    <CodeElement>NovoToolStripMenuItem_Click</CodeElement>
-    <RelativeLineNumber>4</RelativeLineNumber>
-    <IsHiddenString>false</IsHiddenString>
-    <IsInterpolatedString>false</IsInterpolatedString>
-    <ClassName>TAVUFU.frmMain</ClassName>
-    <IsController>false</IsController>
-  </SourceScanResults>
-  <SourceScanResults>
-    <SourceScanID>3</SourceScanID>
-    <ModuleName>Form1.vb</ModuleName>
-    <LineNumber>11</LineNumber>
-    <ColumnNumber>38</ColumnNumber>
-    <StringID>33</StringID>
-    <OriginalText>Editor de Comentários</OriginalText>
-    <IsHidden>false</IsHidden>
-    <IndexOnLine>0</IndexOnLine>
-    <StartOfStatement>11</StartOfStatement>
-    <EndOfStatement>11</EndOfStatement>
-    <IsVerbatim>false</IsVerbatim>
-    <IsHiddenBlock>false</IsHiddenBlock>
-    <CodeElement>NovoToolStripMenuItem_Click</CodeElement>
-    <RelativeLineNumber>7</RelativeLineNumber>
-    <IsHiddenString>false</IsHiddenString>
-    <IsInterpolatedString>false</IsInterpolatedString>
-    <ClassName>TAVUFU.frmMain</ClassName>
-    <IsController>false</IsController>
-  </SourceScanResults>
-  <SourceScanResults>
-    <SourceScanID>4</SourceScanID>
-    <ModuleName>Form1.vb</ModuleName>
-    <LineNumber>18</LineNumber>
-    <ColumnNumber>24</ColumnNumber>
-    <OriginalText>Subtitle Files (*.srt)|*.srt|All files (*.*)|*.*</OriginalText>
-    <IsHidden>true</IsHidden>
-    <IndexOnLine>0</IndexOnLine>
-    <StartOfStatement>18</StartOfStatement>
-    <EndOfStatement>18</EndOfStatement>
-    <IsVerbatim>false</IsVerbatim>
-    <IsHiddenBlock>false</IsHiddenBlock>
-    <CodeElement>AbrirToolStripMenuItem_Click</CodeElement>
-    <RelativeLineNumber>3</RelativeLineNumber>
-    <IsHiddenString>false</IsHiddenString>
-    <IsInterpolatedString>false</IsInterpolatedString>
-    <ClassName>TAVUFU.frmMain</ClassName>
-    <IsController>false</IsController>
-  </SourceScanResults>
-  <SourceScanResults>
-    <SourceScanID>5</SourceScanID>
-    <ModuleName>Form1.vb</ModuleName>
-    <LineNumber>25</LineNumber>
-    <ColumnNumber>38</ColumnNumber>
-    <StringID>35</StringID>
-    <OriginalText>Text Editor - </OriginalText>
-    <IsHidden>false</IsHidden>
-    <IndexOnLine>0</IndexOnLine>
-    <StartOfStatement>25</StartOfStatement>
-    <EndOfStatement>25</EndOfStatement>
-    <IsVerbatim>false</IsVerbatim>
-    <IsHiddenBlock>false</IsHiddenBlock>
-    <CodeElement>AbrirToolStripMenuItem_Click</CodeElement>
-    <RelativeLineNumber>10</RelativeLineNumber>
-    <IsHiddenString>false</IsHiddenString>
-    <IsInterpolatedString>false</IsInterpolatedString>
-    <ClassName>TAVUFU.frmMain</ClassName>
-    <IsController>false</IsController>
-  </SourceScanResults>
-  <SourceScanResults>
-    <SourceScanID>6</SourceScanID>
-    <ModuleName>Form1.vb</ModuleName>
-    <LineNumber>34</LineNumber>
-    <ColumnNumber>28</ColumnNumber>
-    <OriginalText>srt</OriginalText>
-    <IsHidden>true</IsHidden>
-    <IndexOnLine>0</IndexOnLine>
-    <StartOfStatement>34</StartOfStatement>
-    <EndOfStatement>34</EndOfStatement>
-    <IsVerbatim>false</IsVerbatim>
-    <IsHiddenBlock>false</IsHiddenBlock>
-    <CodeElement>SalvarToolStripMenuItem_Click</CodeElement>
-    <RelativeLineNumber>3</RelativeLineNumber>
-    <IsHiddenString>false</IsHiddenString>
-    <IsInterpolatedString>false</IsInterpolatedString>
-    <ClassName>TAVUFU.frmMain</ClassName>
-    <IsController>false</IsController>
-  </SourceScanResults>
-  <SourceScanResults>
-    <SourceScanID>7</SourceScanID>
-    <ModuleName>Form1.vb</ModuleName>
-    <LineNumber>35</LineNumber>
-    <ColumnNumber>24</ColumnNumber>
-    <OriginalText>Subtitle Files (*.srt)|*.srt|All files (*.*)|*.*</OriginalText>
-    <IsHidden>true</IsHidden>
-    <IndexOnLine>0</IndexOnLine>
-    <StartOfStatement>35</StartOfStatement>
-    <EndOfStatement>35</EndOfStatement>
-    <IsVerbatim>false</IsVerbatim>
-    <IsHiddenBlock>false</IsHiddenBlock>
-    <CodeElement>SalvarToolStripMenuItem_Click</CodeElement>
-    <RelativeLineNumber>4</RelativeLineNumber>
-    <IsHiddenString>false</IsHiddenString>
-    <IsInterpolatedString>false</IsInterpolatedString>
-    <ClassName>TAVUFU.frmMain</ClassName>
-    <IsController>false</IsController>
-  </SourceScanResults>
-  <SourceScanResults>
-    <SourceScanID>8</SourceScanID>
-    <ModuleName>Form1.vb</ModuleName>
-    <LineNumber>42</LineNumber>
-    <ColumnNumber>38</ColumnNumber>
-    <StringID>37</StringID>
-    <OriginalText>Editor de Comentários - </OriginalText>
-    <IsHidden>false</IsHidden>
-    <IndexOnLine>0</IndexOnLine>
-    <StartOfStatement>42</StartOfStatement>
-    <EndOfStatement>42</EndOfStatement>
-    <IsVerbatim>false</IsVerbatim>
-    <IsHiddenBlock>false</IsHiddenBlock>
-    <CodeElement>SalvarToolStripMenuItem_Click</CodeElement>
-    <RelativeLineNumber>11</RelativeLineNumber>
-    <IsHiddenString>false</IsHiddenString>
-    <IsInterpolatedString>false</IsInterpolatedString>
-    <ClassName>TAVUFU.frmMain</ClassName>
-    <IsController>false</IsController>
-  </SourceScanResults>
-  <SourceScanResults>
-    <SourceScanID>9</SourceScanID>
-    <ModuleName>Form1.vb</ModuleName>
-    <LineNumber>50</LineNumber>
-    <ColumnNumber>42</ColumnNumber>
-    <StringID>38</StringID>
-    <OriginalText>Tem certeza que deseja sair do editor?</OriginalText>
-    <IsHidden>false</IsHidden>
-    <IndexOnLine>0</IndexOnLine>
-    <StartOfStatement>50</StartOfStatement>
-    <EndOfStatement>50</EndOfStatement>
-    <IsVerbatim>false</IsVerbatim>
-    <IsHiddenBlock>false</IsHiddenBlock>
-    <CodeElement>SairToolStripMenuItem_Click</CodeElement>
-    <RelativeLineNumber>2</RelativeLineNumber>
-    <IsHiddenString>false</IsHiddenString>
-    <IsInterpolatedString>false</IsInterpolatedString>
-    <ClassName>TAVUFU.frmMain</ClassName>
-    <IsController>false</IsController>
-  </SourceScanResults>
-  <SourceScanResults>
-    <SourceScanID>10</SourceScanID>
-    <ModuleName>Form1.vb</ModuleName>
-    <LineNumber>52</LineNumber>
-    <ColumnNumber>42</ColumnNumber>
-    <StringID>32</StringID>
-    <OriginalText>Text Editor</OriginalText>
-    <IsHidden>false</IsHidden>
-    <IndexOnLine>0</IndexOnLine>
-    <StartOfStatement>52</StartOfStatement>
-    <EndOfStatement>52</EndOfStatement>
-    <IsVerbatim>false</IsVerbatim>
-    <IsHiddenBlock>false</IsHiddenBlock>
-    <CodeElement>SairToolStripMenuItem_Click</CodeElement>
-    <RelativeLineNumber>4</RelativeLineNumber>
-    <IsHiddenString>false</IsHiddenString>
-    <IsInterpolatedString>false</IsInterpolatedString>
-    <ClassName>TAVUFU.frmMain</ClassName>
-    <IsController>false</IsController>
-  </SourceScanResults>
-  <SourceScanResults>
-    <SourceScanID>11</SourceScanID>
-    <ModuleName>Form1.vb</ModuleName>
-    <LineNumber>79</LineNumber>
-    <ColumnNumber>47</ColumnNumber>
-    <OriginalText>HH:mm ,dd/MM/yyyy</OriginalText>
-    <IsHidden>true</IsHidden>
-    <IndexOnLine>0</IndexOnLine>
-    <StartOfStatement>79</StartOfStatement>
-    <EndOfStatement>79</EndOfStatement>
-    <IsVerbatim>false</IsVerbatim>
-    <IsHiddenBlock>false</IsHiddenBlock>
-    <CodeElement>HoraDataToolStripMenuItem_Click</CodeElement>
-    <RelativeLineNumber>1</RelativeLineNumber>
-    <IsHiddenString>false</IsHiddenString>
-    <IsInterpolatedString>false</IsInterpolatedString>
-    <ClassName>TAVUFU.frmMain</ClassName>
-    <IsController>false</IsController>
-  </SourceScanResults>
-  <SourceScanResults>
-    <SourceScanID>12</SourceScanID>
-    <ModuleName>Form1.vb</ModuleName>
-    <LineNumber>117</LineNumber>
-    <ColumnNumber>34</ColumnNumber>
-    <StringID>40</StringID>
-    <OriginalText>Editor de Comentários - Sem Título</OriginalText>
-    <IsHidden>false</IsHidden>
-    <IndexOnLine>0</IndexOnLine>
-    <StartOfStatement>117</StartOfStatement>
-    <EndOfStatement>117</EndOfStatement>
-    <IsVerbatim>false</IsVerbatim>
-    <IsHiddenBlock>false</IsHiddenBlock>
-    <CodeElement>frmMain_Load</CodeElement>
-    <RelativeLineNumber>2</RelativeLineNumber>
-    <IsHiddenString>false</IsHiddenString>
-    <IsInterpolatedString>false</IsInterpolatedString>
-    <ClassName>TAVUFU.frmMain</ClassName>
-    <IsController>false</IsController>
-  </SourceScanResults>
-  <SourceScanResults>
-    <SourceScanID>13</SourceScanID>
-    <ModuleName>Form1.vb</ModuleName>
-    <LineNumber>124</LineNumber>
-    <ColumnNumber>49</ColumnNumber>
-    <StringID>41</StringID>
-    <OriginalText>Insira o texto a ser colocado como comentário na parte central inferior:</OriginalText>
-    <IsHidden>false</IsHidden>
-    <IndexOnLine>0</IndexOnLine>
-    <StartOfStatement>124</StartOfStatement>
-    <EndOfStatement>124</EndOfStatement>
-    <IsVerbatim>false</IsVerbatim>
-    <IsHiddenBlock>false</IsHiddenBlock>
-    <CodeElement>CentroInferiorToolStripMenuItem_Click</CodeElement>
-    <RelativeLineNumber>3</RelativeLineNumber>
-    <IsHiddenString>false</IsHiddenString>
-    <IsInterpolatedString>false</IsInterpolatedString>
-    <ClassName>TAVUFU.frmMain</ClassName>
-    <IsController>false</IsController>
-  </SourceScanResults>
-  <SourceScanResults>
-    <SourceScanID>14</SourceScanID>
-    <ModuleName>Form1.vb</ModuleName>
-    <LineNumber>135</LineNumber>
-    <ColumnNumber>49</ColumnNumber>
-    <StringID>42</StringID>
-    <OriginalText>Insira o texto a ser colocado como comentário na parte direita inferior:</OriginalText>
-    <IsHidden>false</IsHidden>
-    <IndexOnLine>0</IndexOnLine>
-    <StartOfStatement>135</StartOfStatement>
-    <EndOfStatement>135</EndOfStatement>
-    <IsVerbatim>false</IsVerbatim>
-    <IsHiddenBlock>false</IsHiddenBlock>
-    <CodeElement>DireitaInferiorToolStripMenuItem1_Click</CodeElement>
-    <RelativeLineNumber>3</RelativeLineNumber>
-    <IsHiddenString>false</IsHiddenString>
-    <IsInterpolatedString>false</IsInterpolatedString>
-    <ClassName>TAVUFU.frmMain</ClassName>
-    <IsController>false</IsController>
-  </SourceScanResults>
-  <SourceScanResults>
-    <SourceScanID>15</SourceScanID>
-    <ModuleName>Form1.vb</ModuleName>
-    <LineNumber>136</LineNumber>
-    <ColumnNumber>32</ColumnNumber>
-    <OriginalText>{\an3}</OriginalText>
-    <IsHidden>true</IsHidden>
-    <IndexOnLine>0</IndexOnLine>
-    <StartOfStatement>136</StartOfStatement>
-    <EndOfStatement>136</EndOfStatement>
-    <IsVerbatim>false</IsVerbatim>
-    <IsHiddenBlock>false</IsHiddenBlock>
-    <CodeElement>DireitaInferiorToolStripMenuItem1_Click</CodeElement>
-    <RelativeLineNumber>4</RelativeLineNumber>
-    <IsHiddenString>false</IsHiddenString>
-    <IsInterpolatedString>false</IsInterpolatedString>
-    <ClassName>TAVUFU.frmMain</ClassName>
-    <IsController>false</IsController>
-  </SourceScanResults>
-  <SourceScanResults>
-    <SourceScanID>16</SourceScanID>
-    <ModuleName>Form1.vb</ModuleName>
-    <LineNumber>146</LineNumber>
-    <ColumnNumber>49</ColumnNumber>
-    <StringID>44</StringID>
-    <OriginalText>Insira o texto a ser colocado como comentário na parte esquerda superior:</OriginalText>
-    <IsHidden>false</IsHidden>
-    <IndexOnLine>0</IndexOnLine>
-    <StartOfStatement>146</StartOfStatement>
-    <EndOfStatement>146</EndOfStatement>
-    <IsVerbatim>false</IsVerbatim>
-    <IsHiddenBlock>false</IsHiddenBlock>
-    <CodeElement>EsquerdaSuperiorToolStripMenuItem2_Click</CodeElement>
-    <RelativeLineNumber>3</RelativeLineNumber>
-    <IsHiddenString>false</IsHiddenString>
-    <IsInterpolatedString>false</IsInterpolatedString>
-    <ClassName>TAVUFU.frmMain</ClassName>
-    <IsController>false</IsController>
-  </SourceScanResults>
-  <SourceScanResults>
-    <SourceScanID>17</SourceScanID>
-    <ModuleName>Form1.vb</ModuleName>
-    <LineNumber>147</LineNumber>
-    <ColumnNumber>32</ColumnNumber>
-    <OriginalText>{\an7}</OriginalText>
-    <IsHidden>true</IsHidden>
-    <IndexOnLine>0</IndexOnLine>
-    <StartOfStatement>147</StartOfStatement>
-    <EndOfStatement>147</EndOfStatement>
-    <IsVerbatim>false</IsVerbatim>
-    <IsHiddenBlock>false</IsHiddenBlock>
-    <CodeElement>EsquerdaSuperiorToolStripMenuItem2_Click</CodeElement>
-    <RelativeLineNumber>4</RelativeLineNumber>
-    <IsHiddenString>false</IsHiddenString>
-    <IsInterpolatedString>false</IsInterpolatedString>
-    <ClassName>TAVUFU.frmMain</ClassName>
-    <IsController>false</IsController>
-  </SourceScanResults>
-  <SourceScanResults>
-    <SourceScanID>18</SourceScanID>
-    <ModuleName>Form1.vb</ModuleName>
-    <LineNumber>158</LineNumber>
-    <ColumnNumber>49</ColumnNumber>
-    <StringID>46</StringID>
-    <OriginalText>Insira o texto a ser colocado como comentário na parte direita superior:</OriginalText>
-    <IsHidden>false</IsHidden>
-    <IndexOnLine>0</IndexOnLine>
-    <StartOfStatement>158</StartOfStatement>
-    <EndOfStatement>158</EndOfStatement>
-    <IsVerbatim>false</IsVerbatim>
-    <IsHiddenBlock>false</IsHiddenBlock>
-    <CodeElement>DireitaSuperiorToolStripMenuItem1_Click</CodeElement>
-    <RelativeLineNumber>3</RelativeLineNumber>
-    <IsHiddenString>false</IsHiddenString>
-    <IsInterpolatedString>false</IsInterpolatedString>
-    <ClassName>TAVUFU.frmMain</ClassName>
-    <IsController>false</IsController>
-  </SourceScanResults>
-  <SourceScanResults>
-    <SourceScanID>19</SourceScanID>
-    <ModuleName>Form1.vb</ModuleName>
-    <LineNumber>159</LineNumber>
-    <ColumnNumber>32</ColumnNumber>
-    <OriginalText>{\an9}</OriginalText>
-    <IsHidden>true</IsHidden>
-    <IndexOnLine>0</IndexOnLine>
-    <StartOfStatement>159</StartOfStatement>
-    <EndOfStatement>159</EndOfStatement>
-    <IsVerbatim>false</IsVerbatim>
-    <IsHiddenBlock>false</IsHiddenBlock>
-    <CodeElement>DireitaSuperiorToolStripMenuItem1_Click</CodeElement>
-    <RelativeLineNumber>4</RelativeLineNumber>
-    <IsHiddenString>false</IsHiddenString>
-    <IsInterpolatedString>false</IsInterpolatedString>
-    <ClassName>TAVUFU.frmMain</ClassName>
-    <IsController>false</IsController>
-  </SourceScanResults>
-  <SourceScanResults>
-    <SourceScanID>20</SourceScanID>
-    <ModuleName>Form1.vb</ModuleName>
-    <LineNumber>169</LineNumber>
-    <ColumnNumber>49</ColumnNumber>
-    <StringID>48</StringID>
-    <OriginalText>Insira o texto a ser colocado como comentário na parte central superior:</OriginalText>
-    <IsHidden>false</IsHidden>
-    <IndexOnLine>0</IndexOnLine>
-    <StartOfStatement>169</StartOfStatement>
-    <EndOfStatement>169</EndOfStatement>
-    <IsVerbatim>false</IsVerbatim>
-    <IsHiddenBlock>false</IsHiddenBlock>
-    <CodeElement>CentroSuperiorToolStripMenuItem_Click</CodeElement>
-    <RelativeLineNumber>3</RelativeLineNumber>
-    <IsHiddenString>false</IsHiddenString>
-    <IsInterpolatedString>false</IsInterpolatedString>
-    <ClassName>TAVUFU.frmMain</ClassName>
-    <IsController>false</IsController>
-  </SourceScanResults>
-  <SourceScanResults>
-    <SourceScanID>21</SourceScanID>
-    <ModuleName>Form1.vb</ModuleName>
-    <LineNumber>170</LineNumber>
-    <ColumnNumber>32</ColumnNumber>
-    <OriginalText>{\an8}</OriginalText>
-    <IsHidden>true</IsHidden>
-    <IndexOnLine>0</IndexOnLine>
-    <StartOfStatement>170</StartOfStatement>
-    <EndOfStatement>170</EndOfStatement>
-    <IsVerbatim>false</IsVerbatim>
-    <IsHiddenBlock>false</IsHiddenBlock>
-    <CodeElement>CentroSuperiorToolStripMenuItem_Click</CodeElement>
-    <RelativeLineNumber>4</RelativeLineNumber>
-    <IsHiddenString>false</IsHiddenString>
-    <IsInterpolatedString>false</IsInterpolatedString>
-    <ClassName>TAVUFU.frmMain</ClassName>
-    <IsController>false</IsController>
-  </SourceScanResults>
-  <SourceScanResults>
-    <SourceScanID>22</SourceScanID>
-    <ModuleName>Form1.vb</ModuleName>
-    <LineNumber>180</LineNumber>
-    <ColumnNumber>49</ColumnNumber>
-    <StringID>50</StringID>
-    <OriginalText>Insira o texto a ser colocado como comentário na parte esquerda inferior:</OriginalText>
-    <IsHidden>false</IsHidden>
-    <IndexOnLine>0</IndexOnLine>
-    <StartOfStatement>180</StartOfStatement>
-    <EndOfStatement>180</EndOfStatement>
-    <IsVerbatim>false</IsVerbatim>
-    <IsHiddenBlock>false</IsHiddenBlock>
-    <CodeElement>EsquerdaInferiorToolStripMenuItem2_Click</CodeElement>
-    <RelativeLineNumber>3</RelativeLineNumber>
-    <IsHiddenString>false</IsHiddenString>
-    <IsInterpolatedString>false</IsInterpolatedString>
-    <ClassName>TAVUFU.frmMain</ClassName>
-    <IsController>false</IsController>
-  </SourceScanResults>
-  <SourceScanResults>
-    <SourceScanID>23</SourceScanID>
-    <ModuleName>Form1.vb</ModuleName>
-    <LineNumber>181</LineNumber>
-    <ColumnNumber>32</ColumnNumber>
-    <OriginalText>{\an1}</OriginalText>
-    <IsHidden>true</IsHidden>
-    <IndexOnLine>0</IndexOnLine>
-    <StartOfStatement>181</StartOfStatement>
-    <EndOfStatement>181</EndOfStatement>
-    <IsVerbatim>false</IsVerbatim>
-    <IsHiddenBlock>false</IsHiddenBlock>
-    <CodeElement>EsquerdaInferiorToolStripMenuItem2_Click</CodeElement>
-    <RelativeLineNumber>4</RelativeLineNumber>
-    <IsHiddenString>false</IsHiddenString>
-    <IsInterpolatedString>false</IsInterpolatedString>
-    <ClassName>TAVUFU.frmMain</ClassName>
-    <IsController>false</IsController>
-  </SourceScanResults>
-  <SourceScanResults>
     <SourceScanID>24</SourceScanID>
     <ModuleName>MlString.vb</ModuleName>
     <LineNumber>8</LineNumber>
     <ColumnNumber>40</ColumnNumber>
     <OriginalText>TAVUFU</OriginalText>
-    <IsHidden>true</IsHidden>
+    <IsHidden>false</IsHidden>
     <IndexOnLine>0</IndexOnLine>
     <StartOfStatement>8</StartOfStatement>
     <EndOfStatement>8</EndOfStatement>
@@ -476,8 +25,8 @@
     <LineNumber>13</LineNumber>
     <ColumnNumber>59</ColumnNumber>
     <OriginalText>.MultiLang</OriginalText>
-    <IsHidden>true</IsHidden>
-    <IndexOnLine>0</IndexOnLine>
+    <IsHidden>false</IsHidden>
+    <IndexOnLine>1</IndexOnLine>
     <StartOfStatement>13</StartOfStatement>
     <EndOfStatement>13</EndOfStatement>
     <IsVerbatim>false</IsVerbatim>
@@ -495,8 +44,8 @@
     <LineNumber>15</LineNumber>
     <ColumnNumber>43</ColumnNumber>
     <OriginalText>MultiLang</OriginalText>
-    <IsHidden>true</IsHidden>
-    <IndexOnLine>0</IndexOnLine>
+    <IsHidden>false</IsHidden>
+    <IndexOnLine>2</IndexOnLine>
     <StartOfStatement>15</StartOfStatement>
     <EndOfStatement>15</EndOfStatement>
     <IsVerbatim>false</IsVerbatim>
@@ -514,8 +63,8 @@
     <LineNumber>28</LineNumber>
     <ColumnNumber>34</ColumnNumber>
     <OriginalText>_</OriginalText>
-    <IsHidden>true</IsHidden>
-    <IndexOnLine>0</IndexOnLine>
+    <IsHidden>false</IsHidden>
+    <IndexOnLine>3</IndexOnLine>
     <StartOfStatement>28</StartOfStatement>
     <EndOfStatement>28</EndOfStatement>
     <IsVerbatim>false</IsVerbatim>
@@ -533,8 +82,8 @@
     <LineNumber>31</LineNumber>
     <ColumnNumber>46</ColumnNumber>
     <OriginalText>pt-BR</OriginalText>
-    <IsHidden>true</IsHidden>
-    <IndexOnLine>0</IndexOnLine>
+    <IsHidden>false</IsHidden>
+    <IndexOnLine>4</IndexOnLine>
     <StartOfStatement>31</StartOfStatement>
     <EndOfStatement>31</EndOfStatement>
     <IsVerbatim>false</IsVerbatim>
@@ -552,8 +101,8 @@
     <LineNumber>31</LineNumber>
     <ColumnNumber>55</ColumnNumber>
     <OriginalText>en</OriginalText>
-    <IsHidden>true</IsHidden>
-    <IndexOnLine>1</IndexOnLine>
+    <IsHidden>false</IsHidden>
+    <IndexOnLine>5</IndexOnLine>
     <StartOfStatement>31</StartOfStatement>
     <EndOfStatement>31</EndOfStatement>
     <IsVerbatim>false</IsVerbatim>
@@ -571,10 +120,10 @@
     <LineNumber>36</LineNumber>
     <ColumnNumber>47</ColumnNumber>
     <OriginalText>pt-BR</OriginalText>
-    <IsHidden>true</IsHidden>
+    <IsHidden>false</IsHidden>
     <IndexOnLine>0</IndexOnLine>
-    <StartOfStatement>36</StartOfStatement>
-    <EndOfStatement>36</EndOfStatement>
+    <StartOfStatement>1</StartOfStatement>
+    <EndOfStatement>252</EndOfStatement>
     <IsVerbatim>false</IsVerbatim>
     <IsHiddenBlock>false</IsHiddenBlock>
     <CodeElement>SupportedCultures</CodeElement>
@@ -590,10 +139,10 @@
     <LineNumber>36</LineNumber>
     <ColumnNumber>56</ColumnNumber>
     <OriginalText>en</OriginalText>
-    <IsHidden>true</IsHidden>
+    <IsHidden>false</IsHidden>
     <IndexOnLine>1</IndexOnLine>
-    <StartOfStatement>36</StartOfStatement>
-    <EndOfStatement>36</EndOfStatement>
+    <StartOfStatement>1</StartOfStatement>
+    <EndOfStatement>252</EndOfStatement>
     <IsVerbatim>false</IsVerbatim>
     <IsHiddenBlock>false</IsHiddenBlock>
     <CodeElement>SupportedCultures</CodeElement>
@@ -610,9 +159,9 @@
     <ColumnNumber>38</ColumnNumber>
     <OriginalText>The settings have been saved.</OriginalText>
     <IsHidden>false</IsHidden>
-    <IndexOnLine>0</IndexOnLine>
-    <StartOfStatement>68</StartOfStatement>
-    <EndOfStatement>71</EndOfStatement>
+    <IndexOnLine>2</IndexOnLine>
+    <StartOfStatement>1</StartOfStatement>
+    <EndOfStatement>252</EndOfStatement>
     <IsVerbatim>false</IsVerbatim>
     <IsHiddenBlock>false</IsHiddenBlock>
     <CodeElement>LoadSettingsAndShow</CodeElement>
@@ -629,9 +178,9 @@
     <ColumnNumber>40</ColumnNumber>
     <OriginalText>The language change will take full effect the next time you start the program.</OriginalText>
     <IsHidden>false</IsHidden>
-    <IndexOnLine>1</IndexOnLine>
-    <StartOfStatement>68</StartOfStatement>
-    <EndOfStatement>71</EndOfStatement>
+    <IndexOnLine>3</IndexOnLine>
+    <StartOfStatement>1</StartOfStatement>
+    <EndOfStatement>252</EndOfStatement>
     <IsVerbatim>false</IsVerbatim>
     <IsHiddenBlock>false</IsHiddenBlock>
     <CodeElement>LoadSettingsAndShow</CodeElement>
@@ -648,9 +197,9 @@
     <ColumnNumber>40</ColumnNumber>
     <OriginalText>Select language</OriginalText>
     <IsHidden>false</IsHidden>
-    <IndexOnLine>2</IndexOnLine>
-    <StartOfStatement>68</StartOfStatement>
-    <EndOfStatement>71</EndOfStatement>
+    <IndexOnLine>4</IndexOnLine>
+    <StartOfStatement>1</StartOfStatement>
+    <EndOfStatement>252</EndOfStatement>
     <IsVerbatim>false</IsVerbatim>
     <IsHiddenBlock>false</IsHiddenBlock>
     <CodeElement>LoadSettingsAndShow</CodeElement>
@@ -667,9 +216,9 @@
     <ColumnNumber>37</ColumnNumber>
     <OriginalText>CultureSettings.xml</OriginalText>
     <IsHidden>false</IsHidden>
-    <IndexOnLine>0</IndexOnLine>
-    <StartOfStatement>104</StartOfStatement>
-    <EndOfStatement>104</EndOfStatement>
+    <IndexOnLine>5</IndexOnLine>
+    <StartOfStatement>1</StartOfStatement>
+    <EndOfStatement>252</EndOfStatement>
     <IsVerbatim>false</IsVerbatim>
     <IsHiddenBlock>false</IsHiddenBlock>
     <CodeElement>LoadSettings</CodeElement>
@@ -686,9 +235,9 @@
     <ColumnNumber>78</ColumnNumber>
     <OriginalText>CultureSettings.xml</OriginalText>
     <IsHidden>false</IsHidden>
-    <IndexOnLine>0</IndexOnLine>
-    <StartOfStatement>107</StartOfStatement>
-    <EndOfStatement>107</EndOfStatement>
+    <IndexOnLine>6</IndexOnLine>
+    <StartOfStatement>1</StartOfStatement>
+    <EndOfStatement>252</EndOfStatement>
     <IsVerbatim>false</IsVerbatim>
     <IsHiddenBlock>false</IsHiddenBlock>
     <CodeElement>LoadSettings</CodeElement>
@@ -705,9 +254,9 @@
     <ColumnNumber>27</ColumnNumber>
     <OriginalText>StartupMode</OriginalText>
     <IsHidden>false</IsHidden>
-    <IndexOnLine>0</IndexOnLine>
-    <StartOfStatement>113</StartOfStatement>
-    <EndOfStatement>113</EndOfStatement>
+    <IndexOnLine>7</IndexOnLine>
+    <StartOfStatement>1</StartOfStatement>
+    <EndOfStatement>252</EndOfStatement>
     <IsVerbatim>false</IsVerbatim>
     <IsHiddenBlock>false</IsHiddenBlock>
     <CodeElement>LoadSettings</CodeElement>
@@ -724,9 +273,9 @@
     <ColumnNumber>27</ColumnNumber>
     <OriginalText>Culture</OriginalText>
     <IsHidden>false</IsHidden>
-    <IndexOnLine>0</IndexOnLine>
-    <StartOfStatement>115</StartOfStatement>
-    <EndOfStatement>115</EndOfStatement>
+    <IndexOnLine>8</IndexOnLine>
+    <StartOfStatement>1</StartOfStatement>
+    <EndOfStatement>252</EndOfStatement>
     <IsVerbatim>false</IsVerbatim>
     <IsHiddenBlock>false</IsHiddenBlock>
     <CodeElement>LoadSettings</CodeElement>
@@ -743,9 +292,9 @@
     <ColumnNumber>57</ColumnNumber>
     <OriginalText>CultureSettings.xml</OriginalText>
     <IsHidden>false</IsHidden>
-    <IndexOnLine>0</IndexOnLine>
-    <StartOfStatement>139</StartOfStatement>
-    <EndOfStatement>139</EndOfStatement>
+    <IndexOnLine>9</IndexOnLine>
+    <StartOfStatement>1</StartOfStatement>
+    <EndOfStatement>252</EndOfStatement>
     <IsVerbatim>false</IsVerbatim>
     <IsHiddenBlock>false</IsHiddenBlock>
     <CodeElement>SaveSettings</CodeElement>
@@ -762,9 +311,9 @@
     <ColumnNumber>35</ColumnNumber>
     <OriginalText>CultureSettings</OriginalText>
     <IsHidden>false</IsHidden>
-    <IndexOnLine>0</IndexOnLine>
-    <StartOfStatement>144</StartOfStatement>
-    <EndOfStatement>144</EndOfStatement>
+    <IndexOnLine>10</IndexOnLine>
+    <StartOfStatement>1</StartOfStatement>
+    <EndOfStatement>252</EndOfStatement>
     <IsVerbatim>false</IsVerbatim>
     <IsHiddenBlock>false</IsHiddenBlock>
     <CodeElement>SaveSettings</CodeElement>
@@ -781,9 +330,9 @@
     <ColumnNumber>35</ColumnNumber>
     <OriginalText>StartupMode</OriginalText>
     <IsHidden>false</IsHidden>
-    <IndexOnLine>0</IndexOnLine>
-    <StartOfStatement>145</StartOfStatement>
-    <EndOfStatement>145</EndOfStatement>
+    <IndexOnLine>11</IndexOnLine>
+    <StartOfStatement>1</StartOfStatement>
+    <EndOfStatement>252</EndOfStatement>
     <IsVerbatim>false</IsVerbatim>
     <IsHiddenBlock>false</IsHiddenBlock>
     <CodeElement>SaveSettings</CodeElement>
@@ -800,9 +349,9 @@
     <ColumnNumber>35</ColumnNumber>
     <OriginalText>Culture</OriginalText>
     <IsHidden>false</IsHidden>
-    <IndexOnLine>0</IndexOnLine>
-    <StartOfStatement>148</StartOfStatement>
-    <EndOfStatement>148</EndOfStatement>
+    <IndexOnLine>12</IndexOnLine>
+    <StartOfStatement>1</StartOfStatement>
+    <EndOfStatement>252</EndOfStatement>
     <IsVerbatim>false</IsVerbatim>
     <IsHiddenBlock>false</IsHiddenBlock>
     <CodeElement>SaveSettings</CodeElement>
@@ -810,6 +359,457 @@
     <IsHiddenString>false</IsHiddenString>
     <IsInterpolatedString>false</IsInterpolatedString>
     <ClassName>TAVUFU.SelectLanguage</ClassName>
+    <IsController>false</IsController>
+  </SourceScanResults>
+  <SourceScanResults>
+    <SourceScanID>273</SourceScanID>
+    <ModuleName>Form1.vb</ModuleName>
+    <LineNumber>6</LineNumber>
+    <ColumnNumber>42</ColumnNumber>
+    <StringID>31</StringID>
+    <OriginalText>Tem certeza que deseja iniciar um novo documento?</OriginalText>
+    <IsHidden>false</IsHidden>
+    <IndexOnLine>0</IndexOnLine>
+    <StartOfStatement>1</StartOfStatement>
+    <EndOfStatement>1</EndOfStatement>
+    <IsVerbatim>false</IsVerbatim>
+    <IsHiddenBlock>false</IsHiddenBlock>
+    <CodeElement>NovoToolStripMenuItem_Click</CodeElement>
+    <RelativeLineNumber>2</RelativeLineNumber>
+    <IsHiddenString>false</IsHiddenString>
+    <IsInterpolatedString>false</IsInterpolatedString>
+    <ClassName>TAVUFU.frmMain</ClassName>
+    <IsController>false</IsController>
+  </SourceScanResults>
+  <SourceScanResults>
+    <SourceScanID>274</SourceScanID>
+    <ModuleName>Form1.vb</ModuleName>
+    <LineNumber>8</LineNumber>
+    <ColumnNumber>42</ColumnNumber>
+    <StringID>32</StringID>
+    <OriginalText>Text Editor</OriginalText>
+    <IsHidden>false</IsHidden>
+    <IndexOnLine>1</IndexOnLine>
+    <StartOfStatement>1</StartOfStatement>
+    <EndOfStatement>1</EndOfStatement>
+    <IsVerbatim>false</IsVerbatim>
+    <IsHiddenBlock>false</IsHiddenBlock>
+    <CodeElement>NovoToolStripMenuItem_Click</CodeElement>
+    <RelativeLineNumber>4</RelativeLineNumber>
+    <IsHiddenString>false</IsHiddenString>
+    <IsInterpolatedString>false</IsInterpolatedString>
+    <ClassName>TAVUFU.frmMain</ClassName>
+    <IsController>false</IsController>
+  </SourceScanResults>
+  <SourceScanResults>
+    <SourceScanID>275</SourceScanID>
+    <ModuleName>Form1.vb</ModuleName>
+    <LineNumber>11</LineNumber>
+    <ColumnNumber>38</ColumnNumber>
+    <StringID>33</StringID>
+    <OriginalText>Editor de Comentários</OriginalText>
+    <IsHidden>false</IsHidden>
+    <IndexOnLine>2</IndexOnLine>
+    <StartOfStatement>1</StartOfStatement>
+    <EndOfStatement>1</EndOfStatement>
+    <IsVerbatim>false</IsVerbatim>
+    <IsHiddenBlock>false</IsHiddenBlock>
+    <CodeElement>NovoToolStripMenuItem_Click</CodeElement>
+    <RelativeLineNumber>7</RelativeLineNumber>
+    <IsHiddenString>false</IsHiddenString>
+    <IsInterpolatedString>false</IsInterpolatedString>
+    <ClassName>TAVUFU.frmMain</ClassName>
+    <IsController>false</IsController>
+  </SourceScanResults>
+  <SourceScanResults>
+    <SourceScanID>276</SourceScanID>
+    <ModuleName>Form1.vb</ModuleName>
+    <LineNumber>18</LineNumber>
+    <ColumnNumber>24</ColumnNumber>
+    <OriginalText>Subtitle Files (*.srt)|*.srt|All files (*.*)|*.*</OriginalText>
+    <IsHidden>false</IsHidden>
+    <IndexOnLine>3</IndexOnLine>
+    <StartOfStatement>18</StartOfStatement>
+    <EndOfStatement>18</EndOfStatement>
+    <IsVerbatim>false</IsVerbatim>
+    <IsHiddenBlock>false</IsHiddenBlock>
+    <CodeElement>AbrirToolStripMenuItem_Click</CodeElement>
+    <RelativeLineNumber>3</RelativeLineNumber>
+    <IsHiddenString>false</IsHiddenString>
+    <IsInterpolatedString>false</IsInterpolatedString>
+    <ClassName>TAVUFU.frmMain</ClassName>
+    <IsController>false</IsController>
+  </SourceScanResults>
+  <SourceScanResults>
+    <SourceScanID>277</SourceScanID>
+    <ModuleName>Form1.vb</ModuleName>
+    <LineNumber>25</LineNumber>
+    <ColumnNumber>38</ColumnNumber>
+    <StringID>35</StringID>
+    <OriginalText>Text Editor - </OriginalText>
+    <IsHidden>false</IsHidden>
+    <IndexOnLine>4</IndexOnLine>
+    <StartOfStatement>1</StartOfStatement>
+    <EndOfStatement>1</EndOfStatement>
+    <IsVerbatim>false</IsVerbatim>
+    <IsHiddenBlock>false</IsHiddenBlock>
+    <CodeElement>AbrirToolStripMenuItem_Click</CodeElement>
+    <RelativeLineNumber>10</RelativeLineNumber>
+    <IsHiddenString>false</IsHiddenString>
+    <IsInterpolatedString>false</IsInterpolatedString>
+    <ClassName>TAVUFU.frmMain</ClassName>
+    <IsController>false</IsController>
+  </SourceScanResults>
+  <SourceScanResults>
+    <SourceScanID>278</SourceScanID>
+    <ModuleName>Form1.vb</ModuleName>
+    <LineNumber>34</LineNumber>
+    <ColumnNumber>28</ColumnNumber>
+    <OriginalText>srt</OriginalText>
+    <IsHidden>false</IsHidden>
+    <IndexOnLine>5</IndexOnLine>
+    <StartOfStatement>34</StartOfStatement>
+    <EndOfStatement>34</EndOfStatement>
+    <IsVerbatim>false</IsVerbatim>
+    <IsHiddenBlock>false</IsHiddenBlock>
+    <CodeElement>SalvarToolStripMenuItem_Click</CodeElement>
+    <RelativeLineNumber>3</RelativeLineNumber>
+    <IsHiddenString>false</IsHiddenString>
+    <IsInterpolatedString>false</IsInterpolatedString>
+    <ClassName>TAVUFU.frmMain</ClassName>
+    <IsController>false</IsController>
+  </SourceScanResults>
+  <SourceScanResults>
+    <SourceScanID>279</SourceScanID>
+    <ModuleName>Form1.vb</ModuleName>
+    <LineNumber>35</LineNumber>
+    <ColumnNumber>24</ColumnNumber>
+    <OriginalText>Subtitle Files (*.srt)|*.srt|All files (*.*)|*.*</OriginalText>
+    <IsHidden>false</IsHidden>
+    <IndexOnLine>6</IndexOnLine>
+    <StartOfStatement>35</StartOfStatement>
+    <EndOfStatement>35</EndOfStatement>
+    <IsVerbatim>false</IsVerbatim>
+    <IsHiddenBlock>false</IsHiddenBlock>
+    <CodeElement>SalvarToolStripMenuItem_Click</CodeElement>
+    <RelativeLineNumber>4</RelativeLineNumber>
+    <IsHiddenString>false</IsHiddenString>
+    <IsInterpolatedString>false</IsInterpolatedString>
+    <ClassName>TAVUFU.frmMain</ClassName>
+    <IsController>false</IsController>
+  </SourceScanResults>
+  <SourceScanResults>
+    <SourceScanID>280</SourceScanID>
+    <ModuleName>Form1.vb</ModuleName>
+    <LineNumber>42</LineNumber>
+    <ColumnNumber>38</ColumnNumber>
+    <StringID>37</StringID>
+    <OriginalText>Editor de Comentários - </OriginalText>
+    <IsHidden>false</IsHidden>
+    <IndexOnLine>7</IndexOnLine>
+    <StartOfStatement>1</StartOfStatement>
+    <EndOfStatement>1</EndOfStatement>
+    <IsVerbatim>false</IsVerbatim>
+    <IsHiddenBlock>false</IsHiddenBlock>
+    <CodeElement>SalvarToolStripMenuItem_Click</CodeElement>
+    <RelativeLineNumber>11</RelativeLineNumber>
+    <IsHiddenString>false</IsHiddenString>
+    <IsInterpolatedString>false</IsInterpolatedString>
+    <ClassName>TAVUFU.frmMain</ClassName>
+    <IsController>false</IsController>
+  </SourceScanResults>
+  <SourceScanResults>
+    <SourceScanID>281</SourceScanID>
+    <ModuleName>Form1.vb</ModuleName>
+    <LineNumber>50</LineNumber>
+    <ColumnNumber>42</ColumnNumber>
+    <StringID>38</StringID>
+    <OriginalText>Tem certeza que deseja sair do editor?</OriginalText>
+    <IsHidden>false</IsHidden>
+    <IndexOnLine>8</IndexOnLine>
+    <StartOfStatement>1</StartOfStatement>
+    <EndOfStatement>1</EndOfStatement>
+    <IsVerbatim>false</IsVerbatim>
+    <IsHiddenBlock>false</IsHiddenBlock>
+    <CodeElement>SairToolStripMenuItem_Click</CodeElement>
+    <RelativeLineNumber>2</RelativeLineNumber>
+    <IsHiddenString>false</IsHiddenString>
+    <IsInterpolatedString>false</IsInterpolatedString>
+    <ClassName>TAVUFU.frmMain</ClassName>
+    <IsController>false</IsController>
+  </SourceScanResults>
+  <SourceScanResults>
+    <SourceScanID>282</SourceScanID>
+    <ModuleName>Form1.vb</ModuleName>
+    <LineNumber>52</LineNumber>
+    <ColumnNumber>42</ColumnNumber>
+    <StringID>32</StringID>
+    <OriginalText>Text Editor</OriginalText>
+    <IsHidden>false</IsHidden>
+    <IndexOnLine>9</IndexOnLine>
+    <StartOfStatement>1</StartOfStatement>
+    <EndOfStatement>1</EndOfStatement>
+    <IsVerbatim>false</IsVerbatim>
+    <IsHiddenBlock>false</IsHiddenBlock>
+    <CodeElement>SairToolStripMenuItem_Click</CodeElement>
+    <RelativeLineNumber>4</RelativeLineNumber>
+    <IsHiddenString>false</IsHiddenString>
+    <IsInterpolatedString>false</IsInterpolatedString>
+    <ClassName>TAVUFU.frmMain</ClassName>
+    <IsController>false</IsController>
+  </SourceScanResults>
+  <SourceScanResults>
+    <SourceScanID>283</SourceScanID>
+    <ModuleName>Form1.vb</ModuleName>
+    <LineNumber>79</LineNumber>
+    <ColumnNumber>47</ColumnNumber>
+    <OriginalText>HH:mm ,dd/MM/yyyy</OriginalText>
+    <IsHidden>false</IsHidden>
+    <IndexOnLine>10</IndexOnLine>
+    <StartOfStatement>79</StartOfStatement>
+    <EndOfStatement>79</EndOfStatement>
+    <IsVerbatim>false</IsVerbatim>
+    <IsHiddenBlock>false</IsHiddenBlock>
+    <CodeElement>HoraDataToolStripMenuItem_Click</CodeElement>
+    <RelativeLineNumber>1</RelativeLineNumber>
+    <IsHiddenString>false</IsHiddenString>
+    <IsInterpolatedString>false</IsInterpolatedString>
+    <ClassName>TAVUFU.frmMain</ClassName>
+    <IsController>false</IsController>
+  </SourceScanResults>
+  <SourceScanResults>
+    <SourceScanID>284</SourceScanID>
+    <ModuleName>Form1.vb</ModuleName>
+    <LineNumber>117</LineNumber>
+    <ColumnNumber>34</ColumnNumber>
+    <StringID>40</StringID>
+    <OriginalText>Editor de Comentários - Sem Título</OriginalText>
+    <IsHidden>false</IsHidden>
+    <IndexOnLine>11</IndexOnLine>
+    <StartOfStatement>1</StartOfStatement>
+    <EndOfStatement>1</EndOfStatement>
+    <IsVerbatim>false</IsVerbatim>
+    <IsHiddenBlock>false</IsHiddenBlock>
+    <CodeElement>frmMain_Load</CodeElement>
+    <RelativeLineNumber>2</RelativeLineNumber>
+    <IsHiddenString>false</IsHiddenString>
+    <IsInterpolatedString>false</IsInterpolatedString>
+    <ClassName>TAVUFU.frmMain</ClassName>
+    <IsController>false</IsController>
+  </SourceScanResults>
+  <SourceScanResults>
+    <SourceScanID>285</SourceScanID>
+    <ModuleName>Form1.vb</ModuleName>
+    <LineNumber>124</LineNumber>
+    <ColumnNumber>49</ColumnNumber>
+    <StringID>41</StringID>
+    <OriginalText>Insira o texto a ser colocado como comentário na parte central inferior:</OriginalText>
+    <IsHidden>false</IsHidden>
+    <IndexOnLine>12</IndexOnLine>
+    <StartOfStatement>1</StartOfStatement>
+    <EndOfStatement>1</EndOfStatement>
+    <IsVerbatim>false</IsVerbatim>
+    <IsHiddenBlock>false</IsHiddenBlock>
+    <CodeElement>CentroInferiorToolStripMenuItem_Click</CodeElement>
+    <RelativeLineNumber>3</RelativeLineNumber>
+    <IsHiddenString>false</IsHiddenString>
+    <IsInterpolatedString>false</IsInterpolatedString>
+    <ClassName>TAVUFU.frmMain</ClassName>
+    <IsController>false</IsController>
+  </SourceScanResults>
+  <SourceScanResults>
+    <SourceScanID>286</SourceScanID>
+    <ModuleName>Form1.vb</ModuleName>
+    <LineNumber>135</LineNumber>
+    <ColumnNumber>49</ColumnNumber>
+    <StringID>42</StringID>
+    <OriginalText>Insira o texto a ser colocado como comentário na parte direita inferior:</OriginalText>
+    <IsHidden>false</IsHidden>
+    <IndexOnLine>13</IndexOnLine>
+    <StartOfStatement>1</StartOfStatement>
+    <EndOfStatement>1</EndOfStatement>
+    <IsVerbatim>false</IsVerbatim>
+    <IsHiddenBlock>false</IsHiddenBlock>
+    <CodeElement>DireitaInferiorToolStripMenuItem1_Click</CodeElement>
+    <RelativeLineNumber>3</RelativeLineNumber>
+    <IsHiddenString>false</IsHiddenString>
+    <IsInterpolatedString>false</IsInterpolatedString>
+    <ClassName>TAVUFU.frmMain</ClassName>
+    <IsController>false</IsController>
+  </SourceScanResults>
+  <SourceScanResults>
+    <SourceScanID>287</SourceScanID>
+    <ModuleName>Form1.vb</ModuleName>
+    <LineNumber>136</LineNumber>
+    <ColumnNumber>32</ColumnNumber>
+    <OriginalText>{\an3}</OriginalText>
+    <IsHidden>false</IsHidden>
+    <IndexOnLine>14</IndexOnLine>
+    <StartOfStatement>136</StartOfStatement>
+    <EndOfStatement>136</EndOfStatement>
+    <IsVerbatim>false</IsVerbatim>
+    <IsHiddenBlock>false</IsHiddenBlock>
+    <CodeElement>DireitaInferiorToolStripMenuItem1_Click</CodeElement>
+    <RelativeLineNumber>4</RelativeLineNumber>
+    <IsHiddenString>false</IsHiddenString>
+    <IsInterpolatedString>false</IsInterpolatedString>
+    <ClassName>TAVUFU.frmMain</ClassName>
+    <IsController>false</IsController>
+  </SourceScanResults>
+  <SourceScanResults>
+    <SourceScanID>288</SourceScanID>
+    <ModuleName>Form1.vb</ModuleName>
+    <LineNumber>146</LineNumber>
+    <ColumnNumber>49</ColumnNumber>
+    <StringID>44</StringID>
+    <OriginalText>Insira o texto a ser colocado como comentário na parte esquerda superior:</OriginalText>
+    <IsHidden>false</IsHidden>
+    <IndexOnLine>15</IndexOnLine>
+    <StartOfStatement>1</StartOfStatement>
+    <EndOfStatement>1</EndOfStatement>
+    <IsVerbatim>false</IsVerbatim>
+    <IsHiddenBlock>false</IsHiddenBlock>
+    <CodeElement>EsquerdaSuperiorToolStripMenuItem2_Click</CodeElement>
+    <RelativeLineNumber>3</RelativeLineNumber>
+    <IsHiddenString>false</IsHiddenString>
+    <IsInterpolatedString>false</IsInterpolatedString>
+    <ClassName>TAVUFU.frmMain</ClassName>
+    <IsController>false</IsController>
+  </SourceScanResults>
+  <SourceScanResults>
+    <SourceScanID>289</SourceScanID>
+    <ModuleName>Form1.vb</ModuleName>
+    <LineNumber>147</LineNumber>
+    <ColumnNumber>32</ColumnNumber>
+    <OriginalText>{\an7}</OriginalText>
+    <IsHidden>false</IsHidden>
+    <IndexOnLine>16</IndexOnLine>
+    <StartOfStatement>147</StartOfStatement>
+    <EndOfStatement>147</EndOfStatement>
+    <IsVerbatim>false</IsVerbatim>
+    <IsHiddenBlock>false</IsHiddenBlock>
+    <CodeElement>EsquerdaSuperiorToolStripMenuItem2_Click</CodeElement>
+    <RelativeLineNumber>4</RelativeLineNumber>
+    <IsHiddenString>false</IsHiddenString>
+    <IsInterpolatedString>false</IsInterpolatedString>
+    <ClassName>TAVUFU.frmMain</ClassName>
+    <IsController>false</IsController>
+  </SourceScanResults>
+  <SourceScanResults>
+    <SourceScanID>290</SourceScanID>
+    <ModuleName>Form1.vb</ModuleName>
+    <LineNumber>158</LineNumber>
+    <ColumnNumber>49</ColumnNumber>
+    <StringID>46</StringID>
+    <OriginalText>Insira o texto a ser colocado como comentário na parte direita superior:</OriginalText>
+    <IsHidden>false</IsHidden>
+    <IndexOnLine>17</IndexOnLine>
+    <StartOfStatement>1</StartOfStatement>
+    <EndOfStatement>1</EndOfStatement>
+    <IsVerbatim>false</IsVerbatim>
+    <IsHiddenBlock>false</IsHiddenBlock>
+    <CodeElement>DireitaSuperiorToolStripMenuItem1_Click</CodeElement>
+    <RelativeLineNumber>3</RelativeLineNumber>
+    <IsHiddenString>false</IsHiddenString>
+    <IsInterpolatedString>false</IsInterpolatedString>
+    <ClassName>TAVUFU.frmMain</ClassName>
+    <IsController>false</IsController>
+  </SourceScanResults>
+  <SourceScanResults>
+    <SourceScanID>291</SourceScanID>
+    <ModuleName>Form1.vb</ModuleName>
+    <LineNumber>159</LineNumber>
+    <ColumnNumber>32</ColumnNumber>
+    <OriginalText>{\an9}</OriginalText>
+    <IsHidden>false</IsHidden>
+    <IndexOnLine>18</IndexOnLine>
+    <StartOfStatement>159</StartOfStatement>
+    <EndOfStatement>159</EndOfStatement>
+    <IsVerbatim>false</IsVerbatim>
+    <IsHiddenBlock>false</IsHiddenBlock>
+    <CodeElement>DireitaSuperiorToolStripMenuItem1_Click</CodeElement>
+    <RelativeLineNumber>4</RelativeLineNumber>
+    <IsHiddenString>false</IsHiddenString>
+    <IsInterpolatedString>false</IsInterpolatedString>
+    <ClassName>TAVUFU.frmMain</ClassName>
+    <IsController>false</IsController>
+  </SourceScanResults>
+  <SourceScanResults>
+    <SourceScanID>292</SourceScanID>
+    <ModuleName>Form1.vb</ModuleName>
+    <LineNumber>169</LineNumber>
+    <ColumnNumber>49</ColumnNumber>
+    <StringID>48</StringID>
+    <OriginalText>Insira o texto a ser colocado como comentário na parte central superior:</OriginalText>
+    <IsHidden>false</IsHidden>
+    <IndexOnLine>19</IndexOnLine>
+    <StartOfStatement>1</StartOfStatement>
+    <EndOfStatement>1</EndOfStatement>
+    <IsVerbatim>false</IsVerbatim>
+    <IsHiddenBlock>false</IsHiddenBlock>
+    <CodeElement>CentroSuperiorToolStripMenuItem_Click</CodeElement>
+    <RelativeLineNumber>3</RelativeLineNumber>
+    <IsHiddenString>false</IsHiddenString>
+    <IsInterpolatedString>false</IsInterpolatedString>
+    <ClassName>TAVUFU.frmMain</ClassName>
+    <IsController>false</IsController>
+  </SourceScanResults>
+  <SourceScanResults>
+    <SourceScanID>293</SourceScanID>
+    <ModuleName>Form1.vb</ModuleName>
+    <LineNumber>170</LineNumber>
+    <ColumnNumber>32</ColumnNumber>
+    <OriginalText>{\an8}</OriginalText>
+    <IsHidden>false</IsHidden>
+    <IndexOnLine>20</IndexOnLine>
+    <StartOfStatement>170</StartOfStatement>
+    <EndOfStatement>170</EndOfStatement>
+    <IsVerbatim>false</IsVerbatim>
+    <IsHiddenBlock>false</IsHiddenBlock>
+    <CodeElement>CentroSuperiorToolStripMenuItem_Click</CodeElement>
+    <RelativeLineNumber>4</RelativeLineNumber>
+    <IsHiddenString>false</IsHiddenString>
+    <IsInterpolatedString>false</IsInterpolatedString>
+    <ClassName>TAVUFU.frmMain</ClassName>
+    <IsController>false</IsController>
+  </SourceScanResults>
+  <SourceScanResults>
+    <SourceScanID>294</SourceScanID>
+    <ModuleName>Form1.vb</ModuleName>
+    <LineNumber>180</LineNumber>
+    <ColumnNumber>49</ColumnNumber>
+    <StringID>50</StringID>
+    <OriginalText>Insira o texto a ser colocado como comentário na parte esquerda inferior:</OriginalText>
+    <IsHidden>false</IsHidden>
+    <IndexOnLine>21</IndexOnLine>
+    <StartOfStatement>1</StartOfStatement>
+    <EndOfStatement>1</EndOfStatement>
+    <IsVerbatim>false</IsVerbatim>
+    <IsHiddenBlock>false</IsHiddenBlock>
+    <CodeElement>EsquerdaInferiorToolStripMenuItem2_Click</CodeElement>
+    <RelativeLineNumber>3</RelativeLineNumber>
+    <IsHiddenString>false</IsHiddenString>
+    <IsInterpolatedString>false</IsInterpolatedString>
+    <ClassName>TAVUFU.frmMain</ClassName>
+    <IsController>false</IsController>
+  </SourceScanResults>
+  <SourceScanResults>
+    <SourceScanID>295</SourceScanID>
+    <ModuleName>Form1.vb</ModuleName>
+    <LineNumber>181</LineNumber>
+    <ColumnNumber>32</ColumnNumber>
+    <OriginalText>{\an1}</OriginalText>
+    <IsHidden>false</IsHidden>
+    <IndexOnLine>22</IndexOnLine>
+    <StartOfStatement>181</StartOfStatement>
+    <EndOfStatement>181</EndOfStatement>
+    <IsVerbatim>false</IsVerbatim>
+    <IsHiddenBlock>false</IsHiddenBlock>
+    <CodeElement>EsquerdaInferiorToolStripMenuItem2_Click</CodeElement>
+    <RelativeLineNumber>4</RelativeLineNumber>
+    <IsHiddenString>false</IsHiddenString>
+    <IsInterpolatedString>false</IsInterpolatedString>
+    <ClassName>TAVUFU.frmMain</ClassName>
     <IsController>false</IsController>
   </SourceScanResults>
 </SourceScanResultsCache>

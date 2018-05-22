@@ -126,15 +126,15 @@
     <comment>2</comment>
   </data>
   <data name="_12" xml:space="preserve">
-    <value>Inferior</value>
+    <value>Bottom</value>
     <comment>2</comment>
   </data>
   <data name="_14" xml:space="preserve">
-    <value>Center...</value>
-    <comment>5</comment>
+    <value>Middle...</value>
+    <comment>2</comment>
   </data>
   <data name="_13" xml:space="preserve">
-    <value>Superior</value>
+    <value>Top</value>
     <comment>2</comment>
   </data>
   <data name="_10" xml:space="preserve">
@@ -166,12 +166,12 @@
     <comment>5</comment>
   </data>
   <data name="_21" xml:space="preserve">
-    <value>Source...</value>
-    <comment>5</comment>
+    <value>Font...</value>
+    <comment>2</comment>
   </data>
   <data name="_24" xml:space="preserve">
-    <value>Format</value>
-    <comment>5</comment>
+    <value>Settings</value>
+    <comment>2</comment>
   </data>
   <data name="_19" xml:space="preserve">
     <value>Time / Date</value>
@@ -202,8 +202,8 @@
     <comment>2</comment>
   </data>
   <data name="_25" xml:space="preserve">
-    <value>Select Language</value>
-    <comment>5</comment>
+    <value>Choose Language</value>
+    <comment>2</comment>
   </data>
   <data name="_18" xml:space="preserve">
     <value>Select all</value>
